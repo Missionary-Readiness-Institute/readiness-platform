@@ -47,8 +47,12 @@ Treat the site as a public informational and educational platform, not a private
 
 - `mkdocs.yml` configures the MkDocs Material site, theme, navigation, and extensions.
 - `docs/` contains public Markdown content.
-- `docs/courses/` contains course pages, outlines, and training content.
+- `docs/courses/` contains course pages, lessons, knowledge checks, and training content.
+- `docs/assets/` contains public static assets used by the site.
 - `docs/policies/` should contain public policy and compliance pages.
+- `docs/project/` contains internal project guidance and templates; it is excluded from the public MkDocs build.
+- `local-workspace/` is ignored by git and can hold private chats, notes, source references, graphics experiments, and quiz drafts.
+- `reference-design/` is ignored by git and can hold local design references.
 - `site/` is generated build output and should not be edited directly.
 - `.github/workflows/` contains deployment automation when present.
 

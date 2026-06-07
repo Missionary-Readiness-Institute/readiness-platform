@@ -2,8 +2,8 @@
 
 Effective date: June 7, 2026
 
-!!! warning "Starter template"
-    This privacy policy is starter text for a small nonprofit-style educational project. It should be reviewed and completed before formal launch.
+!!! warning "Policy draft"
+    This privacy policy is public draft text for a small nonprofit-style educational project. It should be reviewed before relying on it as a final legal document.
 
 Missionary Readiness Institute currently operates this site as a static GitHub Pages / MkDocs Material website. The site does not currently provide user accounts, directly collect course registrations, or directly process payments.
 

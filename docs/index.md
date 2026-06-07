@@ -10,7 +10,7 @@
     </div>
   </div>
   <div class="mri-hero-mark">
-    <img src="assets/images/khmu-portrait-farmlands.jpg" alt="Editorial-style artwork of an adult woman standing in upland farmland">
+    <img src="assets/images/khmu-portrait-farmlands-wlogo.jpg" alt="Editorial-style artwork of an adult woman standing in upland farmland with the Missionary Readiness Institute logo">
   </div>
 </section>
 

@@ -8,7 +8,12 @@ Email: [robert@tetra6.com](mailto:robert@tetra6.com)
 
 Facebook: [Missionary Readiness Institute](https://www.facebook.com/MissionaryReadinessInstitute)
 
-For now, Facebook is the primary public channel for updates and general social communication.
+For now, Facebook is the primary public channel for updates and general community communication.
+
+<figure class="mri-figure wide">
+  <img src="../assets/images/contact-bangkok-call.jpg" alt="Editorial-style artwork of a Southeast Asian adult speaking by phone on a busy Bangkok street">
+  <figcaption>Clear communication helps churches, sponsors, families, and workers stay connected as preparation develops.</figcaption>
+</figure>
 
 ## Content Feedback
 

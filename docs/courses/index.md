@@ -5,8 +5,8 @@ The course catalog is a developing training library for missionary readiness. It
 The courses are introductory. They do not replace local church discernment, organizational requirements, professional advice, or supervised field preparation.
 
 <figure class="mri-figure wide">
-  <img src="../assets/images/editorial-urban-south-asia.jpg" alt="Editorial-style artwork of an adult man in a modern city setting">
-  <figcaption>Course materials are designed for a wide range of settings, from rural communities to fast-growing cities.</figcaption>
+  <img src="../assets/images/courses-classroom-study.jpg" alt="Editorial-style artwork of missionary readiness learners studying in a classroom">
+  <figcaption>Courses are built to support careful study, guided reflection, practical assignments, and better readiness conversations.</figcaption>
 </figure>
 
 ## Available And Developing Courses

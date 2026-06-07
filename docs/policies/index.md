@@ -2,10 +2,15 @@
 
 This section gathers public policy and compliance pages for the missionary readiness platform.
 
-!!! warning "Starter template"
-    These policy pages are starter templates for a small nonprofit-style educational project. They should be reviewed before formal launch and before relying on them publicly.
+!!! warning "Policy draft"
+    These policy pages are public drafts for a small nonprofit-style educational project. They should be reviewed before relying on them as final legal documents.
 
 The site is currently static and hosted on GitHub Pages. It does not currently collect user accounts directly, process payments directly, or claim accreditation. External tools such as Google Forms, email, GitHub Pages, or analytics may be used later and should be disclosed when added.
+
+<figure class="mri-figure wide">
+  <img src="../assets/images/policies-legal-review.jpg" alt="Editorial-style artwork of a legal advisor reviewing a law book in an office">
+  <figcaption>Policy pages should be treated as starter templates and reviewed carefully before formal launch or wider use.</figcaption>
+</figure>
 
 ## Current Pages
 

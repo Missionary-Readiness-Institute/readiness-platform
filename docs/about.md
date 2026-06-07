@@ -8,7 +8,7 @@ The platform is not a university, seminary, accredited institution, or sending a
 
 <div class="mri-feature">
   <figure class="mri-figure">
-    <img src="assets/images/khmu-portrait-close.jpg" alt="Editorial-style close portrait of an adult woman with farmland in the background">
+    <img src="../assets/images/khmu-portrait-close.jpg" alt="Editorial-style close portrait of an adult woman with farmland in the background">
     <figcaption>Readiness begins with respect for real people, local communities, and the ordinary conditions of service.</figcaption>
   </figure>
   <div>

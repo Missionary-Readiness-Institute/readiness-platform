@@ -2,8 +2,8 @@
 
 Effective date: June 7, 2026
 
-!!! warning "Starter template"
-    This copyright and license page is starter text for a small nonprofit-style educational project. It should be reviewed and completed before formal launch.
+!!! warning "Policy draft"
+    This copyright and license page is public draft text for a small nonprofit-style educational project. It should be reviewed before relying on it as a final legal document.
 
 Unless otherwise marked, public training content on this site is made available under the Creative Commons Attribution 4.0 International license.
 

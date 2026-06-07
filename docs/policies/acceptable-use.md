@@ -2,8 +2,8 @@
 
 Effective date: June 7, 2026
 
-!!! warning "Starter template"
-    This acceptable use policy is starter text for a small nonprofit-style educational project. It should be reviewed and completed before formal launch.
+!!! warning "Policy draft"
+    This acceptable use policy is public draft text for a small nonprofit-style educational project. It should be reviewed before relying on it as a final legal document.
 
 This site exists to support practical missionary readiness training. Visitors are expected to use the site in a lawful, respectful, and responsible way.
 

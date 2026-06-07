@@ -2,8 +2,8 @@
 
 Effective date: June 7, 2026
 
-!!! warning "Starter template"
-    These terms are starter text for a small nonprofit-style educational project. They should be reviewed and completed before formal launch.
+!!! warning "Policy draft"
+    These terms are public draft text for a small nonprofit-style educational project. They should be reviewed before relying on them as final legal documents.
 
 ## Use of This Site
 

@@ -4,6 +4,11 @@ Missionary Readiness Institute is an early-stage online training platform focuse
 
 The platform is not a university, seminary, accredited institution, mission board, or sending agency. It is a service-oriented training resource meant to strengthen thoughtful preparation and better conversations before, during, and after missionary service.
 
+<figure class="mri-figure wide">
+  <img src="../assets/images/sponsor-brief-mentor-student.jpg" alt="Editorial-style artwork of an older mentor walking with a younger student in a mission field setting">
+  <figcaption>Responsible support strengthens learning, accountability, and practical care without replacing local wisdom or personal responsibility.</figcaption>
+</figure>
+
 ## The Problem
 
 Many mission-minded people step toward service with sincere desire but limited preparation. Independent missionaries and small sending networks may not have a shared framework for discussing spiritual formation, cross-cultural humility, safety, accountability, family realities, legal compliance, language learning, or long-term care.

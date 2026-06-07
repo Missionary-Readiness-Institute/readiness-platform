@@ -13,8 +13,8 @@ We want mission-minded people to enter service with humility, preparation, accou
 The vision is not to replace churches, mission boards, sending agencies, pastoral counsel, or field-specific preparation. The platform exists to support better readiness conversations and provide practical training resources that can be used by individuals, families, churches, sponsors, and small organizations.
 
 <figure class="mri-figure wide">
-  <img src="assets/images/editorial-central-asia-city.jpg" alt="Editorial-style artwork of adults near a produce stand with a modern city and mountains behind them">
-  <figcaption>Readiness should take both tradition and modern change seriously, without romanticizing or dismissing either.</figcaption>
+  <img src="../assets/images/mission-vision-diverse-group.jpg" alt="Editorial-style artwork of a diverse group of adults gathered for missionary readiness training">
+  <figcaption>Readiness is strongest when preparation happens with humility, shared counsel, and respect across cultures and generations.</figcaption>
 </figure>
 
 ## Audience

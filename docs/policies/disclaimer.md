@@ -2,8 +2,8 @@
 
 Effective date: June 7, 2026
 
-!!! warning "Starter template"
-    This disclaimer is starter text for a small nonprofit-style educational project. It should be reviewed and completed before formal launch.
+!!! warning "Policy draft"
+    This disclaimer is public draft text for a small nonprofit-style educational project. It should be reviewed before relying on it as a final legal document.
 
 The training content on this site is educational. It is intended to support thoughtful missionary readiness conversations, not replace qualified professional advice or responsible leadership.
 
