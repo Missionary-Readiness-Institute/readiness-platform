@@ -1,6 +1,10 @@
 # MkDocs generated site output
 site/
 
+# Local-only planning, reference, and design workspace
+local-workspace/
+reference-design/
+
 # Python virtual environments and caches
 .venv/
 venv/

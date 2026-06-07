@@ -28,6 +28,18 @@ Readiness includes attention to family safety, child protection, legal complianc
 
 Faithful service also requires ordinary planning: documents, finances, communication rhythms, language learning, health preparation, local expectations, and clear next steps.
 
+<div class="skill-check"
+     data-question="What is the safest first step before entering a new mission field?"
+     data-options='[
+       "Begin public evangelism immediately",
+       "Study the local culture, language, and risks",
+       "Assume methods from home will work there",
+       "Avoid building local relationships"
+     ]'
+     data-answer="1"
+     data-explanation="The safest first step is to learn the local culture, language, spiritual landscape, risks, and community dynamics before acting.">
+</div>
+
 ## Reflection
 
 Before moving on, write brief answers to these questions:
