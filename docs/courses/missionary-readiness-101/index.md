@@ -2,8 +2,8 @@
 
 Missionary Readiness 101 is a model starter course for the platform. It introduces the basic idea that missionary service requires more than willingness. Faithful readiness includes spiritual formation, humility, accountability, safety, cultural respect, and practical preparation.
 
-!!! note "Model course"
-    This course contains placeholder content polished enough to serve as a model. It should be reviewed and expanded before being treated as a finished course.
+!!! note "Introductory course"
+    This course is available as an initial public draft. It should be reviewed by responsible ministry leaders before use in formal training.
 
 ## Course Purpose
 
@@ -78,4 +78,4 @@ This model course may later be eligible for a certificate of completion if the p
 
 | Date | Version | Notes |
 | --- | --- | --- |
-| `TODO` | `0.1` | Initial model course draft. |
+| June 7, 2026 | `0.1` | Initial public draft. |

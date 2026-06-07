@@ -17,7 +17,7 @@ The site is currently static and hosted on GitHub Pages. It does not currently c
 
 ## Review Priorities
 
-- Replace placeholder contact information and effective dates.
+- Keep contact information and effective dates current.
 - Confirm the responsible legal or ministry organization.
 - Confirm the final content and code license.
 - Avoid unsupported claims about accreditation, legal compliance, safety procedures, or professional services.

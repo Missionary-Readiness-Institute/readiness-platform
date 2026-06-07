@@ -1,37 +1,64 @@
-# Course Overview
+# Course Catalog
 
-The course area is a developing training library for missionary readiness. It is designed for independent missionaries, church members, mission-minded families, local churches, and sponsoring partners who need practical preparation before or alongside field-specific training.
+The course catalog is a developing training library for missionary readiness. It is designed for independent missionaries, church members, mission-minded families, local churches, and sponsoring partners who need practical preparation before or alongside field-specific training.
 
 The courses are introductory. They do not replace local church discernment, organizational requirements, professional advice, or supervised field preparation.
 
-## Foundational Areas
+## Available And Developing Courses
 
-- [Missionary Readiness 101](missionary-readiness-101/index.md): the basic readiness framework for new learners and sponsors.
-- [Spiritual Formation](spiritual-formation/index.md): character, prayer, Scripture, worship, rest, and obedience.
-- [Cross-Cultural Service](cross-cultural-service/index.md): humility, listening, cultural learning, local leadership, and respect.
-- [Missionary Care](missionary-care/index.md): accountability, support, family health, boundaries, and sustainability.
-- [Language Learning](language-learning/index.md): realistic expectations, practice habits, local helpers, and perseverance.
-- [Field Readiness](field-readiness/index.md): practical planning, communication, risk awareness, and first-year priorities.
+<div class="mri-grid">
+  <section class="mri-card">
+    <h3><a href="missionary-readiness-101/">Missionary Readiness 101</a></h3>
+    <div class="mri-meta"><span class="mri-pill">Beginner</span><span class="mri-pill">45-60 min</span><span class="mri-pill">Available draft</span></div>
+    <p>The basic readiness framework for new learners, churches, sponsors, and families.</p>
+  </section>
+  <section class="mri-card">
+    <h3><a href="spiritual-formation/">Spiritual Formation</a></h3>
+    <div class="mri-meta"><span class="mri-pill">Beginner</span><span class="mri-pill">60-75 min</span><span class="mri-pill">Available draft</span></div>
+    <p>Character, prayer, Scripture, worship, rest, obedience, and accountability.</p>
+  </section>
+  <section class="mri-card">
+    <h3><a href="cross-cultural-service/">Cross-Cultural Service</a></h3>
+    <div class="mri-meta"><span class="mri-pill">Beginner</span><span class="mri-pill">60-75 min</span><span class="mri-pill">Available draft</span></div>
+    <p>Humility, listening, cultural learning, local leadership, and respectful service.</p>
+  </section>
+  <section class="mri-card">
+    <h3><a href="missionary-care/">Missionary Care</a></h3>
+    <div class="mri-meta"><span class="mri-pill">Beginner</span><span class="mri-pill">60-75 min</span><span class="mri-pill">Available draft</span></div>
+    <p>Accountability, support, family health, boundaries, care plans, and sustainability.</p>
+  </section>
+  <section class="mri-card">
+    <h3><a href="language-learning/">Language Learning</a></h3>
+    <div class="mri-meta"><span class="mri-pill">Beginner</span><span class="mri-pill">45-60 min</span><span class="mri-pill">Available draft</span></div>
+    <p>Realistic expectations, listening-first practice, local helpers, and perseverance.</p>
+  </section>
+  <section class="mri-card">
+    <h3><a href="field-readiness/">Field Readiness</a></h3>
+    <div class="mri-meta"><span class="mri-pill">Beginner</span><span class="mri-pill">60-75 min</span><span class="mri-pill">Available draft</span></div>
+    <p>Practical field entry, logistics, communication, risk awareness, and first-year priorities.</p>
+  </section>
+</div>
 
 ## Course Pattern
 
-Each course should remain concise and usable. A mature course may include:
+Each course uses a consistent lightweight structure:
 
-- A purpose statement.
+- Overview and purpose.
 - Learning objectives.
 - Short lessons or readings.
-- Reflection and discussion prompts.
+- Reflection questions.
+- Knowledge checks.
 - Practical assignments.
-- Mentor or facilitator notes.
-- A certificate of completion option if the platform later supports it.
+- Facilitator notes and completion criteria.
 
 ## Recommended Sequence
 
-1. Spiritual Formation
-2. Cross-Cultural Service
-3. Missionary Care
-4. Language Learning
-5. Field Readiness
+1. Missionary Readiness 101
+2. Spiritual Formation
+3. Cross-Cultural Service
+4. Missionary Care
+5. Language Learning
+6. Field Readiness
 
 This sequence starts with formation and posture before moving into practices, care, and field-entry decisions.
 

@@ -1,6 +1,6 @@
 # Acceptable Use
 
-Effective date: `TODO`
+Effective date: June 7, 2026
 
 !!! warning "Starter template"
     This acceptable use policy is starter text for a small nonprofit-style educational project. It should be reviewed and completed before formal launch.
@@ -40,6 +40,6 @@ The site may later link to external tools such as Google Forms, email services, 
 
 ## Reporting Concerns
 
-Concerns about misuse, errors, or unsafe content may be sent to `contact@example.org`.
+Concerns about misuse, errors, or unsafe content may be sent to [robert@tetra6.com](mailto:robert@tetra6.com).
 
 For urgent safety, legal, medical, child protection, or security matters, contact the appropriate local authority, qualified professional, church leader, or organization-specific reporting process.

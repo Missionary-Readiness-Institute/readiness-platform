@@ -1,6 +1,6 @@
 # Terms of Use
 
-Effective date: `TODO`
+Effective date: June 7, 2026
 
 !!! warning "Starter template"
     These terms are starter text for a small nonprofit-style educational project. They should be reviewed and completed before formal launch.
@@ -45,4 +45,4 @@ These terms may be updated as the site and training platform develop. The effect
 
 ## Contact
 
-Questions about these terms may be sent to `contact@example.org`.
+Questions about these terms may be sent to [robert@tetra6.com](mailto:robert@tetra6.com).

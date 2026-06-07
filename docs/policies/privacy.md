@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: `TODO`
+Effective date: June 7, 2026
 
 !!! warning "Starter template"
     This privacy policy is starter text for a small nonprofit-style educational project. It should be reviewed and completed before formal launch.
@@ -49,4 +49,4 @@ Messages and technical records should be retained only as long as needed for min
 
 ## Contact
 
-Questions about this policy may be sent to `contact@example.org`.
+Questions about this policy may be sent to [robert@tetra6.com](mailto:robert@tetra6.com).

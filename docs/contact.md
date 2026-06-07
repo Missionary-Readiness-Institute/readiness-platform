@@ -4,9 +4,7 @@ Use this page for questions about the public site, course content, partnerships,
 
 ## General Inquiries
 
-Email: `contact@example.org`
-
-TODO: Replace this placeholder with the official Missionary Readiness Institute contact address before public launch.
+Email: [robert@tetra6.com](mailto:robert@tetra6.com)
 
 ## Content Feedback
 

@@ -5,8 +5,13 @@ site_url: https://missionary-readiness-institute.github.io/readiness-platform/
 repo_name: Missionary-Readiness-Institute/readiness-platform
 repo_url: https://github.com/Missionary-Readiness-Institute/readiness-platform
 
+exclude_docs: |
+  project/
+
 theme:
   name: material
+  logo: assets/images/mri-mark.svg
+  favicon: assets/images/favicon.svg
   features:
     - navigation.tabs
     - navigation.sections
@@ -17,19 +22,22 @@ theme:
   palette:
     # Light mode
     - scheme: default
-      primary: indigo
-      accent: blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
 
     # Dark mode
     - scheme: slate
-      primary: indigo
-      accent: blue
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+
+extra_css:
+  - assets/stylesheets/extra.css
 
 nav:
   - Home: index.md
@@ -38,7 +46,6 @@ nav:
   - Sponsor Brief: sponsor-brief.md
   - Courses:
       - Course Overview: courses/index.md
-      - Course Catalog: courses.md
       - Missionary Readiness 101:
           - Overview: courses/missionary-readiness-101/index.md
           - Lesson 01: courses/missionary-readiness-101/lesson-01.md
@@ -71,9 +78,6 @@ nav:
       - Acceptable Use: policies/acceptable-use.md
       - Copyright & License: policies/copyright-license.md
       - Disclaimer: policies/disclaimer.md
-  - Project:
-      - Course Template: project/course-template.md
-      - Branding Guide: project/branding-guide.md
 
 markdown_extensions:
   - admonition

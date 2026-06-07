@@ -1,6 +1,6 @@
 # Disclaimer
 
-Effective date: `TODO`
+Effective date: June 7, 2026
 
 !!! warning "Starter template"
     This disclaimer is starter text for a small nonprofit-style educational project. It should be reviewed and completed before formal launch.

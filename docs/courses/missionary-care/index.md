@@ -2,8 +2,8 @@
 
 Missionary Care helps learners and sending teams pursue healthy, sustainable service through wise support, communication, boundaries, and care planning.
 
-!!! note "Starter course"
-    This course is a polished starter model. It should be reviewed and expanded before being treated as finished training.
+!!! note "Introductory course"
+    This course is available as an initial public draft. It should be reviewed by responsible ministry leaders before use in formal training.
 
 ## Course Purpose
 
@@ -77,4 +77,4 @@ This course may later be eligible for a certificate of completion. A certificate
 
 | Date | Version | Notes |
 | --- | --- | --- |
-| `TODO` | `0.1` | Initial starter course draft. |
+| June 7, 2026 | `0.1` | Initial public draft. |

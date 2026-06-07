@@ -1,6 +1,6 @@
 # Copyright & License
 
-Effective date: `TODO`
+Effective date: June 7, 2026
 
 !!! warning "Starter template"
     This copyright and license page is starter text for a small nonprofit-style educational project. It should be reviewed and completed before formal launch.
@@ -36,4 +36,4 @@ Reuse of content does not mean Missionary Readiness Institute endorses a person,
 
 ## Questions
 
-Questions about reuse or attribution may be sent to `contact@example.org`.
+Questions about reuse or attribution may be sent to [robert@tetra6.com](mailto:robert@tetra6.com).
