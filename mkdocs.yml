@@ -38,12 +38,10 @@ theme:
 
 extra_css:
   - assets/stylesheets/extra.css
+  - assets/stylesheets/skill-check.css
 
 extra_javascript:
   - assets/js/skill-check.js
-
-extra_css:
-  - assets/stylesheets/skill-check.css
 
 extra:
   social:

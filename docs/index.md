@@ -3,7 +3,6 @@
     <p class="mri-kicker">Emerging training platform</p>
     <h1>Missionary Readiness Institute</h1>
     <p class="mri-lede">Practical training for faithful cross-cultural service.</p>
-    <p>Missionary Readiness Institute is developing a lightweight course platform for independent missionaries, mission-minded families, local churches, sponsors, and small organizations preparing for responsible cross-cultural service.</p>
     <div class="mri-actions">
       <a class="mri-button primary" href="courses/">Explore courses</a>
       <a class="mri-button secondary" href="about/">About the platform</a>

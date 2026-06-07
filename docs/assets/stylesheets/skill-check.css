@@ -1,20 +1,14 @@
 .skill-check-card {
   margin: 2rem 0;
   padding: 1.5rem;
-  border: 1px solid color-mix(
-    in srgb,
-    var(--md-primary-fg-color) 28%,
-    transparent
-  );
-  border-left: 5px solid var(--md-primary-fg-color);
+  border: 1px solid var(--mri-border);
+  border-left: 5px solid var(--mri-gold);
   border-radius: 14px;
   background:
-    linear-gradient(
-      135deg,
-      color-mix(in srgb, var(--md-primary-fg-color) 10%, var(--md-default-bg-color)),
-      color-mix(in srgb, var(--md-accent-fg-color) 7%, var(--md-default-bg-color))
-    );
-  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.10);
+    radial-gradient(circle at 92% 12%, rgba(216, 145, 47, 0.18), transparent 30%),
+    linear-gradient(135deg, rgba(23, 50, 77, 0.08), rgba(88, 117, 102, 0.10)),
+    var(--mri-card-bg);
+  box-shadow: 0 10px 28px rgba(15, 36, 56, 0.12);
 }
 
 .skill-check-label {
@@ -124,4 +118,22 @@
 
 .skill-check-card.error {
   border-color: #c62828;
+}
+
+[data-md-color-scheme="slate"] .skill-check-card {
+  background:
+    linear-gradient(
+      135deg,
+      color-mix(in srgb, var(--md-primary-fg-color) 16%, var(--md-default-bg-color)),
+      color-mix(in srgb, var(--md-accent-fg-color) 12%, var(--md-default-bg-color))
+    );
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35);
+}
+
+[data-md-color-scheme="slate"] .skill-check-option {
+  background: color-mix(
+    in srgb,
+    var(--md-default-bg-color) 84%,
+    black
+  );
 }
