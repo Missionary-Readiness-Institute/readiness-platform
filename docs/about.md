@@ -6,9 +6,19 @@ The platform is not a university, seminary, accredited institution, or sending a
 
 ## Why This Platform Exists
 
+<div class="mri-feature">
+  <figure class="mri-figure">
+    <img src="assets/images/khmu-portrait-close.jpg" alt="Editorial-style close portrait of an adult woman with farmland in the background">
+    <figcaption>Readiness begins with respect for real people, local communities, and the ordinary conditions of service.</figcaption>
+  </figure>
+  <div>
+
 Missionary service often begins with sincere desire, but desire alone is not enough. Workers and supporters need space to think carefully about spiritual formation, cultural humility, safety, accountability, family realities, local church relationships, and practical preparation.
 
 This site is being developed to provide that kind of starting point: clear public resources, course outlines, reflection questions, and practical assignments that can support better conversations before service begins.
+
+  </div>
+</div>
 
 ## Who This Is For
 

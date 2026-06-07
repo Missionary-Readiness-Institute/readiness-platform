@@ -10,7 +10,7 @@
     </div>
   </div>
   <div class="mri-hero-mark">
-    <img src="assets/images/mri-mark.svg" alt="Missionary Readiness Institute pathway mark">
+    <img src="assets/images/khmu-portrait-farmlands.jpg" alt="Editorial-style artwork of an adult woman standing in upland farmland">
   </div>
 </section>
 
@@ -75,6 +75,27 @@ The goal is simple: provide clear course materials that help learners prepare wi
   <div class="mri-step"><strong>Care before crisis.</strong> Preparation includes family safety, child protection, support systems, and appropriate boundaries.</div>
   <div class="mri-step"><strong>Practical next steps.</strong> Courses include lessons, reflection questions, knowledge checks, and assignments for discussion.</div>
 </div>
+
+## Learning For Varied Contexts
+
+Missionary readiness should prepare people to listen and serve across rural and urban settings, among communities marked by simplicity, tradition, modern growth, and material prosperity. Training should help learners avoid assumptions and enter each place with humility.
+
+<div class="mri-gallery">
+  <figure class="mri-figure">
+    <img src="assets/images/editorial-rural-southeast-asia.jpg" alt="Editorial-style artwork of an adult woman in terraced upland farmlands">
+    <figcaption>Rural preparation: listening, patience, and respect for local rhythms.</figcaption>
+  </figure>
+  <figure class="mri-figure">
+    <img src="assets/images/editorial-urban-south-asia.jpg" alt="Editorial-style artwork of an adult man in a modern South Asian city">
+    <figcaption>Urban preparation: responsibility, complexity, and everyday professional life.</figcaption>
+  </figure>
+  <figure class="mri-figure">
+    <img src="assets/images/editorial-north-africa-market.jpg" alt="Editorial-style artwork of an adult woman in a warm market courtyard">
+    <figcaption>Community preparation: dignity, local relationships, and ordinary service.</figcaption>
+  </figure>
+</div>
+
+<p class="mri-image-note">Images are illustrative editorial artwork used to support reflective reading. They do not depict platform participants, partner organizations, or sending endorsements.</p>
 
 ## Connect
 
