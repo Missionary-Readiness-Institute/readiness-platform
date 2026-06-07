@@ -35,19 +35,45 @@ nav:
   - Home: index.md
   - About: about.md
   - Mission & Vision: mission-vision.md
+  - Sponsor Brief: sponsor-brief.md
   - Courses:
-      - Course Catalog: courses.md
       - Course Overview: courses/index.md
-      - Spiritual Formation: courses/spiritual-formation.md
-      - Cross-Cultural Service: courses/cross-cultural-service.md
-      - Missionary Care: courses/missionary-care.md
-      - Language Learning: courses/language-learning.md
-      - Field Readiness: courses/field-readiness.md
+      - Course Catalog: courses.md
+      - Missionary Readiness 101:
+          - Overview: courses/missionary-readiness-101/index.md
+          - Lesson 01: courses/missionary-readiness-101/lesson-01.md
+          - Knowledge Check: courses/missionary-readiness-101/knowledge-check.md
+      - Spiritual Formation:
+          - Overview: courses/spiritual-formation/index.md
+          - Lesson 01: courses/spiritual-formation/lesson-01.md
+          - Knowledge Check: courses/spiritual-formation/knowledge-check.md
+      - Cross-Cultural Service:
+          - Overview: courses/cross-cultural-service/index.md
+          - Lesson 01: courses/cross-cultural-service/lesson-01.md
+          - Knowledge Check: courses/cross-cultural-service/knowledge-check.md
+      - Missionary Care:
+          - Overview: courses/missionary-care/index.md
+          - Lesson 01: courses/missionary-care/lesson-01.md
+          - Knowledge Check: courses/missionary-care/knowledge-check.md
+      - Language Learning:
+          - Overview: courses/language-learning/index.md
+          - Lesson 01: courses/language-learning/lesson-01.md
+          - Knowledge Check: courses/language-learning/knowledge-check.md
+      - Field Readiness:
+          - Overview: courses/field-readiness/index.md
+          - Lesson 01: courses/field-readiness/lesson-01.md
+          - Knowledge Check: courses/field-readiness/knowledge-check.md
   - Contact: contact.md
   - Policies:
-      - Privacy Policy: privacy.md
-      - Terms of Use: terms.md
-      - License: license.md
+      - Overview: policies/index.md
+      - Privacy Policy: policies/privacy.md
+      - Terms of Use: policies/terms.md
+      - Acceptable Use: policies/acceptable-use.md
+      - Copyright & License: policies/copyright-license.md
+      - Disclaimer: policies/disclaimer.md
+  - Project:
+      - Course Template: project/course-template.md
+      - Branding Guide: project/branding-guide.md
 
 markdown_extensions:
   - admonition

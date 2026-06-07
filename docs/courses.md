@@ -6,11 +6,12 @@ The course catalog introduces foundational readiness tracks for prospective miss
 
 | Course | Purpose |
 | --- | --- |
-| [Spiritual Formation](courses/spiritual-formation.md) | Prepare learners for worshipful, resilient, and obedient service. |
-| [Cross-Cultural Service](courses/cross-cultural-service.md) | Build humility, listening skills, and cultural learning habits. |
-| [Missionary Care](courses/missionary-care.md) | Help learners plan for relational health, support, and sustainability. |
-| [Language Learning](courses/language-learning.md) | Introduce realistic expectations and habits for language acquisition. |
-| [Field Readiness](courses/field-readiness.md) | Prepare for practical field entry, logistics, communication, and risk awareness. |
+| [Missionary Readiness 101](courses/missionary-readiness-101/index.md) | Introduce the basic readiness framework for new learners and sponsors. |
+| [Spiritual Formation](courses/spiritual-formation/index.md) | Prepare learners for worshipful, resilient, and obedient service. |
+| [Cross-Cultural Service](courses/cross-cultural-service/index.md) | Build humility, listening skills, and cultural learning habits. |
+| [Missionary Care](courses/missionary-care/index.md) | Help learners plan for relational health, support, and sustainability. |
+| [Language Learning](courses/language-learning/index.md) | Introduce realistic expectations and habits for language acquisition. |
+| [Field Readiness](courses/field-readiness/index.md) | Prepare for practical field entry, logistics, communication, and risk awareness. |
 
 ## Suggested Use
 
