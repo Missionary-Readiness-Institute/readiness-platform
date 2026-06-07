@@ -14,12 +14,35 @@ theme:
     - search.highlight
     - search.suggest
     - content.code.copy
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 
 nav:
   - Home: index.md
   - About: about.md
   - Mission & Vision: mission-vision.md
-  - Courses: courses.md
+  - Courses:
+      - Course Catalog: courses.md
+      - Course Overview: courses/index.md
+      - Spiritual Formation: courses/spiritual-formation.md
+      - Cross-Cultural Service: courses/cross-cultural-service.md
+      - Missionary Care: courses/missionary-care.md
+      - Language Learning: courses/language-learning.md
+      - Field Readiness: courses/field-readiness.md
   - Contact: contact.md
   - Policies:
       - Privacy Policy: privacy.md
