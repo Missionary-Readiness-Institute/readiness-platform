@@ -10,8 +10,8 @@ exclude_docs: |
 
 theme:
   name: material
-  logo: assets/images/mri-mark.svg
-  favicon: assets/images/favicon.svg
+  logo: assets/images/mri-logo.png
+  favicon: assets/images/mri-favicon.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -38,6 +38,12 @@ theme:
 
 extra_css:
   - assets/stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/MissionaryReadinessInstitute
+      name: Missionary Readiness Institute on Facebook
 
 nav:
   - Home: index.md

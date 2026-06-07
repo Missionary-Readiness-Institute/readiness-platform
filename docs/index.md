@@ -99,7 +99,9 @@ Missionary readiness should prepare people to listen and serve across rural and 
 
 ## Connect
 
-Questions, corrections, partnership conversations, and course feedback may be sent to [robert@tetra6.com](mailto:robert@tetra6.com).
+For public updates and general communication, follow [Missionary Readiness Institute on Facebook](https://www.facebook.com/MissionaryReadinessInstitute).
+
+Questions, corrections, partnership conversations, and course feedback may also be sent to [robert@tetra6.com](mailto:robert@tetra6.com).
 
 !!! note "Current status"
     This public site is an emerging readiness platform. Course materials are introductory and should be reviewed by responsible ministry leaders before use in formal training.

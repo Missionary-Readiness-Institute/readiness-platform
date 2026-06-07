@@ -6,6 +6,10 @@ Use this page for questions about the public site, course content, partnerships,
 
 Email: [robert@tetra6.com](mailto:robert@tetra6.com)
 
+Facebook: [Missionary Readiness Institute](https://www.facebook.com/MissionaryReadinessInstitute)
+
+For now, Facebook is the primary public channel for updates and general social communication.
+
 ## Content Feedback
 
 When reporting a content issue, please include:
