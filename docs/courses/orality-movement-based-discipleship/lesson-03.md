@@ -31,6 +31,24 @@ Some workers treat evangelism as a one-way presentation rather than a relational
 ## Practical framework
 Use the S-T4T flowchart to plan each step, including listening questions, testimony points, hook story selection, and Gospel invitation.
 
+```mermaid
+flowchart TD
+    A[Listen] --> B[Tell Your Story]
+    B --> C[Tell the Possessed Man Story]
+    C --> D{Ask: "Would you like to be changed like the man in this story?"}
+    D -- Yes --> E[Tell Creation to Church Story]
+    E --> F[Ask: "Do you want to follow Jesus?"]
+    F -- Yes --> G[Follower of Jesus<br/>(Baptism, Church, Obedience)]
+    G --> H[Immediately learn to share your story]
+    D -- No --> I[Ask: "Can you get your family or friends together to listen to more stories?"]
+    I -- Yes --> J[Start a not-yet-believer storying group]
+    J --> K[Tell Core S-T4T Stories]
+    F -- No --> L[Continue listening and contextual storying]
+    E --> K
+    B --> K
+    K --> M[Discipleship phase for believers and not-yet-believers]
+```
+
 ## Scenario or case exercise
 A worker jumps immediately to a Gospel message before asking about the listenerâ€™s story, losing the chance to connect with local experience.
 
@@ -49,6 +67,12 @@ A worker jumps immediately to a Gospel message before asking about the listenerâ
 Use the S-T4T evangelism flow with one person. Start by listening, then tell your story, a hook story, and the Creation to Church story with a call to commitment.
 
 ## Further reading/resources
+- *Making Disciples of Oral Learners* by the International Orality Network
+- *Truth That Sticks* by Avery Willis and Mark Snowden
+- *The Art of Storytelling* by John Walsh
+- *Christian Storytelling* by Eric B. Hare and Arthur Spalding
+- *Orality and Literacy* by Walter J. Ong
+- *Is Hearing Enough? Literacy and the Great Commandments* by Donald E. Chapman
 - S-T4T evangelism materials
 - Mark 5 and other hook-story examples
 

@@ -46,6 +46,18 @@ Show the object or point to it while giving the command. This ties the spoken wo
 
 Repeat the same commands with slight variation. Add plural forms, new objects, and two-step directions.
 
+## The 7-Step Look and Listen Object Routine
+
+| Step | Language Helper (LH) Action | Learner Action |
+| --- | --- | --- |
+| 1 | LH points to the object and says what it is. | Learner simply listens. |
+| 2 | LH names the object. | Learner points to the correct object. |
+| 3 | LH teaches the words for "Yes/True" and "No/False." | Learner learns the words. |
+| 4 | LH names an object and points to one (sometimes incorrectly). | Learner says "Yes" or "No." |
+| 5 | Learner gives the name of the object. | LH points to the right one. |
+| 6 | LH points to an object. | Learner gives its name. |
+| 7 | Learner names the object, LH points to one. | Learner responds with "Yes" or "No." |
+
 ## Common challenges
 
 Learners may want to ask for translation. Instead, the helper should restate the command more slowly and give a model action.
@@ -67,6 +79,11 @@ TPR is a powerful early-stage method that teaches language by doing. It develops
 ## Next step
 
 Plan a short TPR session with your helper that uses 8–10 objects or commands.
+
+## Further reading/resources
+- *Fluent Forever* by Gabriel Wyner
+- *Language Hacking* by Benny Lewis
+- *Learn a New Language: A Creative Guide* by R.D. Davidian
 
 <div class="course-nav">
   <a class="mri-button secondary" href="lesson-01.md">Back</a>

@@ -46,6 +46,16 @@ Focus on the words and sentences the learner is most likely to use. Keep them si
 
 Perform the LAP in the community, then review what worked and what needs more practice.
 
+```mermaid
+flowchart LR
+    A[Picture Book Phase] --> B[Object/TPR Phase]
+    B --> C[Recording Phase]
+    C --> D[Language Acquisition Project (LAP)]
+    D --> A
+    classDef phase fill:#f3f4f6,stroke:#2b6cb0,stroke-width:1px;
+    class A,B,C,D phase;
+```
+
 ## Common challenges
 
 Learners may overprepare and then panic during the actual event. Use the LAP to rehearse the essentials and keep the task small.
@@ -67,6 +77,11 @@ LAPs turn practice into purpose. They help learners connect language study with 
 ## Next step
 
 Select one LAP for the coming week and plan the vocabulary you need to complete it.
+
+## Further reading/resources
+- *Fluent Forever* by Gabriel Wyner
+- *Language Hacking* by Benny Lewis
+- *Learn a New Language: A Creative Guide* by R.D. Davidian
 
 <div class="course-nav">
   <a class="mri-button secondary" href="lesson-03.md">Back</a>

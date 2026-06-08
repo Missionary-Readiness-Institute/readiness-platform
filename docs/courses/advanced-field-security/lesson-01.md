@@ -15,6 +15,13 @@ Learn how this principle supports faithful fieldwork, local ownership, and long-
 - Why a shallow or foreign method can undermine local multiplication.
 - How to choose one practical habit to apply immediately.
 
+## Integrated vs. Defensive Security
+
+| Approach | Method | Impact | Outcome |
+| --- | --- | --- | --- |
+| **Defensive** | Secludes workers behind walls; avoids meaningful interaction with locals | Impedes spontaneous ministry; creates a "bunker mentality" | Loss of community relationships and early-warning systems |
+| **Integrated** | Accepts that all risk cannot be eliminated; mitigates risk through cultural study | Fosters healthy local relationships which act as an early-warning system; implements practical security measures without destroying mission presence | Sustainable local ownership and authentic Gospel witness |
+
 ## Practical Action
 
 Identify one current approach in your context that should be changed to support sustainable local work.
@@ -29,6 +36,15 @@ Identify one current approach in your context that should be changed to support 
 ## Lesson Summary
 
 Use this lesson to shape a more sustainable, obedient, and locally led approach.
+
+## Further reading/resources
+- *Serving with Eyes Wide Open* by David Livermore
+- *100 Deadly Skills* by Clint Emerson
+- *The Gift of Fear* by Gavin de Becker
+- *Left of Bang* by Patrick Van Horne and Jason Riley
+- *What Every BODY Is Saying* by Joe Navarro
+- *Extreme Ownership* by Jocko Willink
+- *Survival & Austere Medicine* (Austere Medical manual)
 
 <div class="course-nav">
   <a class="mri-button secondary" href="index.md">Back</a>

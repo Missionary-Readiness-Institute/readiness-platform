@@ -30,6 +30,19 @@ Many workers stop the story to explain points, which makes listeners depend on t
 ## Practical framework
 Use a story plan with three columns: story selection, narrative cues, and discovery questions for after the story.
 
+## The 10-Step Story Crafting Process
+
+1. **Identify:** Clarify the biblical principle or truth to communicate.
+2. **Consider Worldview:** Evaluate the worldview of the chosen people group.
+3. **Identify Bridges & Barriers:** Find the cultural gaps and connections.
+4. **Select:** Choose the appropriate Bible story to communicate the principle.
+5. **Craft:** Shape the story and plan the pre-story and post-story dialogue.
+6. **Tell:** Communicate the story in a culturally appropriate way (narrative, song, drama).
+7. **Facilitate:** Lead dialogue to help the group discover the meaning without lecturing.
+8. **Obey:** Help the group apply and obey the biblical principle.
+9. **Accountability:** Establish group accountability for life application.
+10. **Reproduce:** Encourage the group to reproduce the story and disciple others.
+
 ## Scenario or case exercise
 A worker tells parts of the Rich Young Ruler story, stops for each application, and never allows the listener to experience the narrative arc.
 
@@ -47,6 +60,12 @@ A worker tells parts of the Rich Young Ruler story, stops for each application, 
 Prepare one chronological Bible story and tell it intact. Then ask a discovery question that leads the listener toward the Gospel.
 
 ## Further reading/resources
+- *Making Disciples of Oral Learners* by the International Orality Network
+- *Truth That Sticks* by Avery Willis and Mark Snowden
+- *The Art of Storytelling* by John Walsh
+- *Christian Storytelling* by Eric B. Hare and Arthur Spalding
+- *Orality and Literacy* by Walter J. Ong
+- *Is Hearing Enough? Literacy and the Great Commandments* by Donald E. Chapman
 - Chronological Bible Storying guides
 - Oral discovery questions for story-based ministry
 

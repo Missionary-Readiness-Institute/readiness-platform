@@ -30,6 +30,15 @@ Identify one current approach in your context that should be changed to support 
 
 Use this lesson to shape a more sustainable, obedient, and locally led approach.
 
+## Further reading/resources
+- *Serving with Eyes Wide Open* by David Livermore
+- *100 Deadly Skills* by Clint Emerson
+- *The Gift of Fear* by Gavin de Becker
+- *Left of Bang* by Patrick Van Horne and Jason Riley
+- *What Every BODY Is Saying* by Joe Navarro
+- *Extreme Ownership* by Jocko Willink
+- *Survival & Austere Medicine* (Austere Medical manual)
+
 <div class="course-nav">
   <a class="mri-button secondary" href="lesson-01.md">Back</a>
   <a class="mri-button primary" href="lesson-03.md">Next Lesson</a>

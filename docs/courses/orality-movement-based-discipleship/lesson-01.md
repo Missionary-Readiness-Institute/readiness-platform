@@ -47,7 +47,12 @@ A worker prepares an analytical sermon with points and scripture references for 
 Choose one Gospel truth and tell it as a single, intact story to at least one local listener. Record how they respond and what language choices worked.
 
 ## Further reading/resources
-- Making Disciples of Oral Learners
+- *Making Disciples of Oral Learners* by the International Orality Network
+- *Truth That Sticks* by Avery Willis and Mark Snowden
+- *The Art of Storytelling* by John Walsh
+- *Christian Storytelling* by Eric B. Hare and Arthur Spalding
+- *Orality and Literacy* by Walter J. Ong
+- *Is Hearing Enough? Literacy and the Great Commandments* by Donald E. Chapman
 - S-T4T field notes on oral evangelism
 
 ## Reviewer notes

@@ -68,6 +68,11 @@ Language learning is both skill work and soul work. Healthy teams care for both 
 
 Discuss your current language rhythm with a mentor or teammate and identify one change that supports your emotional health.
 
+## Further reading/resources
+- *Fluent Forever* by Gabriel Wyner
+- *Language Hacking* by Benny Lewis
+- *Learn a New Language: A Creative Guide* by R.D. Davidian
+
 <div class="course-nav">
   <a class="mri-button secondary" href="lesson-04.md">Back</a>
   <a class="mri-button primary" href="../index.md">Course Overview</a>

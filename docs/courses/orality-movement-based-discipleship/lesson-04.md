@@ -30,6 +30,15 @@ Workers who push the gospel on every contact often face rejection and persecutio
 ## Practical framework
 Use the Person of Peace Community Mapping Guide to chart relationships, daily contacts, and potential peace-people in your workplace or neighborhood.
 
+## Discovery Bible Study (DBS) Meeting Format
+
+| Meeting segment | Questions to ask | Purpose |
+| --- | --- | --- |
+| Review & Care | What are you thankful for? What is stressing you out? How did you obey last week's story? | Build trust, care, and accountability. |
+| Discover (The Story) | Listen or retell the passage. What does this tell us about God? What does this tell us about people? | Help the group engage the story and see its meaning. |
+| Obey | If this story is true, how does that change how we act? What is one measurable "I will..." statement? | Turn insight into action. |
+| Share | Who do you know that needs to hear this story this week? | Multiply the story through relationships. |
+
 ## Scenario or case exercise
 A tentmaker notices a market vendor who listens closely and asks about faith, then deliberately follows that relationship rather than preaching broadly.
 
@@ -47,6 +56,12 @@ A tentmaker notices a market vendor who listens closely and asks about faith, th
 Map your workplace or neighborhood relationships and identify at least one Person of Peace candidate and one pathway to build trust.
 
 ## Further reading/resources
+- *Making Disciples of Oral Learners* by the International Orality Network
+- *Truth That Sticks* by Avery Willis and Mark Snowden
+- *The Art of Storytelling* by John Walsh
+- *Christian Storytelling* by Eric B. Hare and Arthur Spalding
+- *Orality and Literacy* by Walter J. Ong
+- *Is Hearing Enough? Literacy and the Great Commandments* by Donald E. Chapman
 - Luke 10 Person of Peace training notes
 - Tentmaking examples from movement-based ministry
 

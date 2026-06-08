@@ -68,6 +68,11 @@ The Picture Book Technique turns everyday photos into language-building tools. I
 
 Build or update your picture book with 20 new culturally relevant images and use it in the next session.
 
+## Further reading/resources
+- *Fluent Forever* by Gabriel Wyner
+- *Language Hacking* by Benny Lewis
+- *Learn a New Language: A Creative Guide* by R.D. Davidian
+
 <div class="course-nav">
   <a class="mri-button secondary" href="lesson-02.md">Back</a>
   <a class="mri-button primary" href="lesson-04.md">Next Lesson</a>

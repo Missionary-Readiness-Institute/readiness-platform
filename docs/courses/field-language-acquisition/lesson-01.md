@@ -34,6 +34,12 @@ The language helper provides input, models phrases, gives feedback, and listens 
 
 Power tools are control phrases such as "Please repeat," "Speak slower," and "Correct my mistake." They let the learner manage the pace and keep the helper from translating into English.
 
+::: admonition note
+- [ ] **Comprehension Checks:** "Did I say that right?", "How do you say [word]?".
+- [ ] **Session Control:** "I don't want to study this right now," "Wait a minute".
+- [ ] **Recording Controls:** "Let's record these sentences," "Please say each sentence three times," "Please pause so I can repeat it," "Try to say it as naturally as possible".
+:::
+
 ## Step 1: Identify the first 20 phrases
 
 Choose 20 essential phrases that support instruction, correction, and practice. These should cover session control, feedback, and basic conversation glue.
@@ -67,6 +73,11 @@ A learner-driven model and power tools give the language learner authority in th
 ## Next step
 
 Use the power tools in your next meeting and compare the result with a session where you do not use them.
+
+## Further reading/resources
+- *Fluent Forever* by Gabriel Wyner
+- *Language Hacking* by Benny Lewis
+- *Learn a New Language: A Creative Guide* by R.D. Davidian
 
 <div class="course-nav">
   <a class="mri-button secondary" href="../index.md">Back</a>
