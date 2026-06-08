@@ -13,9 +13,9 @@
   </div>
 </section>
 
-## What This Platform Is
-
 <img src="assets/images/mri-logo-nobg.png" alt="Missionary Readiness Institute logo">
+
+## What This Platform Is
 
 This is a static, early-stage training site built to support better readiness conversations. It is not an accredited school, seminary, mission board, sending agency, full LMS, or finished certification ecosystem.
 
