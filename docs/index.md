@@ -15,6 +15,8 @@
 
 ## What This Platform Is
 
+<img src="assets/images/mri-logo-nobg.png" alt="Missionary Readiness Institute logo">
+
 This is a static, early-stage training site built to support better readiness conversations. It is not an accredited school, seminary, mission board, sending agency, full LMS, or finished certification ecosystem.
 
 The goal is simple: provide clear course materials that help learners prepare with biblical faithfulness, cross-cultural humility, accountability, safety, and practical care.
