@@ -315,3 +315,11 @@
     grid-template-columns: 1fr;
   }
 }
+
+.course-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+  align-items: center;
+}
