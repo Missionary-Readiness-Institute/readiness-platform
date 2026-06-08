@@ -42,6 +42,14 @@ Create bylaws that describe governance structure, membership, officer roles, and
 
 Use agendas, minutes, and clear follow-up to make meetings effective and transparent.
 
+## Board Governance Basics
+
+| Component | Purpose | Key Details |
+| --- | --- | --- |
+| **Bylaws** | The legal rulebook governing board powers, voting, terms, and officers. | Must define board composition, term limits, officer roles, voting procedures, and amendment processes. Required for legal nonprofit status. |
+| **Minutes** | The official, legal record of corporate decisions. Must be kept for all meetings. | Include date, attendees, motions, voting results, and decisions. Must be approved and signed by the board secretary. Retained for at least 7 years. |
+| **Conflict of Interest** | Annual disclosures ensuring board members do not engage in self-dealing or benefit financially from organizational decisions. | Board members disclose conflicts yearly and whenever they arise. Members recuse themselves from voting on conflicted matters. |
+
 ## Common challenges
 
 Boards can become ceremonial if they do not have real authority or documented decisions.

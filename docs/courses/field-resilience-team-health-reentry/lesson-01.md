@@ -47,8 +47,10 @@ A new worker in a high-stress setting becomes reactive at small frustrations and
 Create a personal resilience map and share it with a trusted mentor or peer.
 
 ## Further reading/resources
-- IWM resilience and psychological care frameworks
-- Passport to Mission guidance on worker formation
+- *Recovering from Traumatic Stress: A Guide for Missionaries* by S. Laite-Lanham
+- *Third Culture Kids: The Experience of Growing Up Among Worlds* by David C. Pollock and Ruth E. Van Reken
+- *Emotional Intelligence 2.0* by Travis Bradberry and Jean Greaves
+- *The Five Love Languages* by Gary Chapman
 
 ## Reviewer notes
 Ensure the lesson language is compassionate and avoids stigmatizing vulnerability.

@@ -63,7 +63,11 @@ A disciplined annual review and retention schedule keeps oversight proactive and
 ## Next step
 
 Create an annual review calendar and add document retention tasks to your next board agenda.
-
+## Further reading/resources
+- *Nonprofit Kit for Dummies*
+- *Nonprofit Bookkeeping & Accounting for Dummies*
+- *Robert's Rules of Order* (Brief Edition)
+- *The Leadership Challenge* by Kouzes and Posner
 > **Risk / Disclaimer:** This lesson is for general training only and is not legal or financial advice. Consult a qualified attorney or accountant for your organization’s document retention requirements.
 
 <div class="course-nav">

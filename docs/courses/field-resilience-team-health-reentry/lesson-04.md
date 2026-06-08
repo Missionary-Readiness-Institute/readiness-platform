@@ -47,8 +47,10 @@ A team praises the resilience of a family while overlooking the burnout of a sin
 Complete a demographic support matrix for your team, then discuss it with a leader or mentor.
 
 ## Further reading/resources
-- TCK care and family resilience resources
-- IWM research on family and psychological care in missions
+- *Recovering from Traumatic Stress: A Guide for Missionaries* by S. Laite-Lanham
+- *Third Culture Kids: The Experience of Growing Up Among Worlds* by David C. Pollock and Ruth E. Van Reken
+- *Emotional Intelligence 2.0* by Travis Bradberry and Jean Greaves
+- *The Five Love Languages* by Gary Chapman
 
 ## Reviewer notes
 Ensure the lesson avoids overgeneralization and encourages individualized care.

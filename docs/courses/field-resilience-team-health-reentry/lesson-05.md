@@ -49,8 +49,10 @@ A worker rushes home without farewells and returns to old routines without prepa
 Complete the RAFT Transition Checklist and review it with a mentor or sending team.
 
 ## Further reading/resources
-- IWM reentry and furlough care resources
-- Cross-cultural stress and reverse culture shock materials
+- *Recovering from Traumatic Stress: A Guide for Missionaries* by S. Laite-Lanham
+- *Third Culture Kids: The Experience of Growing Up Among Worlds* by David C. Pollock and Ruth E. Van Reken
+- *Emotional Intelligence 2.0* by Travis Bradberry and Jean Greaves
+- *The Five Love Languages* by Gary Chapman
 
 ## Reviewer notes
 Make sure RAFT is presented as a practical tool, not legal or psychological counseling.

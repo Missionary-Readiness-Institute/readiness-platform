@@ -42,6 +42,17 @@ Use a ledger with columns for date, purpose, amount, payer, and approval.
 
 Require receipts or written explanations for every transaction.
 
+## Field Accounting & Cash Controls Checklist
+
+::: admonition note
+- [ ] **Strict Separation:** Never mix personal funds with ministry funds. Maintain separate cash envelopes or accounts for ministry expenses only.
+- [ ] **Petty Cash Ledger:** Document every cash transaction with: Date, Amount, Purpose, Category, and Approval.
+- [ ] **Receipts:** Require local receipts (or a signed substitute receipt if formal receipts are unavailable) for all expense reimbursements.
+- [ ] **Restricted Gifts:** Every dollar must be tracked to ensure it is spent *only* on the specific project the donor designated.
+- [ ] **Monthly Reconciliation:** Verify that ledger balances match actual cash on hand each month.
+- [ ] **Approval Trail:** Ensure that a supervisor or leader approves all expenses before or immediately after payment.
+:::
+
 ## Common challenges
 
 Field staff may assume cash is informal. The right discipline is to treat cash with the same accountability as bank transfers.

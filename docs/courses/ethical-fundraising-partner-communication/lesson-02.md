@@ -42,6 +42,17 @@ Decide who to ask, why you are asking them, and what partnership looks like for 
 
 Track conversations, send thank-you notes, and share progress honestly rather than only when asking for money.
 
+```mermaid
+flowchart LR
+    A["Map Network<br/>(Prayer Partners, Donors, Mentors)"] --> B["Make the God Ask<br/>(Invite participation, not obligation)"]
+    B --> C["Partner Commits<br/>(Gift or prayer support secured)"]
+    C --> D["Send Regular Praise/Prayer Reports<br/>(Monthly updates on progress)"]
+    D --> E["Pastoral Care for Donor<br/>(Check in; express gratitude; share struggles)"]
+    E --> D
+    classDef cycle fill:#f3f4f6,stroke:#2b6cb0,stroke-width:2px;
+    class A,B,C,D,E cycle;
+```
+
 ## Common challenges
 
 It is easy to treat people as transactions when you only track gifts. Focus first on relationship and shared calling.

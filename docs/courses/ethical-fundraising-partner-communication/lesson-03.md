@@ -64,6 +64,12 @@ Managing restricted and unrestricted gifts is foundational for ethical fundraisi
 
 Use the gift acceptance policy template to define your approval and documentation process.
 
+## Further reading/resources
+- *Funding Your Ministry* by Scott Morton
+- *The God Ask* by Steve Shadrach
+- *People Raising* by William Dillon
+- *When Helping Hurts* by Steve Corbett and Brian Fikkert
+
 > **Risk / Disclaimer:** This lesson is for general training only and is not financial or legal advice. Consult a qualified attorney or financial professional for legal, tax, or compliance questions.
 
 <div class="course-nav">

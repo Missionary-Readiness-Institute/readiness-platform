@@ -64,6 +64,12 @@ Ethical conduct and conflict policies are essential safeguards for healthy gover
 
 Draft a conflict-of-interest disclosure form and a basic code of conduct.
 
+## Further reading/resources
+- *Nonprofit Kit for Dummies*
+- *Nonprofit Bookkeeping & Accounting for Dummies*
+- *Robert's Rules of Order* (Brief Edition)
+- *The Leadership Challenge* by Kouzes and Posner
+
 > **Risk / Disclaimer:** This lesson is for general training only and is not legal advice. Consult a qualified attorney or compliance professional for board governance and conflict-of-interest policies.
 
 <div class="course-nav">

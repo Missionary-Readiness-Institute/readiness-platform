@@ -48,8 +48,10 @@ A worker assumes their early career skills are enough for a distant culture, the
 Complete the E-Scale Ministry Assessment and compare your results with a mentor or sending team.
 
 ## Further reading/resources
-- E-Scale training from IWM and mission education literature
-- Cultural adaptation checklists for cross-cultural workers
+- *Recovering from Traumatic Stress: A Guide for Missionaries* by S. Laite-Lanham
+- *Third Culture Kids: The Experience of Growing Up Among Worlds* by David C. Pollock and Ruth E. Van Reken
+- *Emotional Intelligence 2.0* by Travis Bradberry and Jean Greaves
+- *The Five Love Languages* by Gary Chapman
 
 ## Reviewer notes
 Verify that the E-Scale descriptions align with established mission education terminology.

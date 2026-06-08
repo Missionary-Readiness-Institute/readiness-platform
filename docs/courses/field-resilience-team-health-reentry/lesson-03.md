@@ -47,8 +47,10 @@ A multicultural team has different assumptions about feedback, causing repeated 
 Draft a Multicultural Team Covenant with your team or discuss one with a trusted partner.
 
 ## Further reading/resources
-- Team culture and conflict resources from IWM
-- Missionary care literature on team dynamics
+- *Recovering from Traumatic Stress: A Guide for Missionaries* by S. Laite-Lanham
+- *Third Culture Kids: The Experience of Growing Up Among Worlds* by David C. Pollock and Ruth E. Van Reken
+- *Emotional Intelligence 2.0* by Travis Bradberry and Jean Greaves
+- *The Five Love Languages* by Gary Chapman
 
 ## Reviewer notes
 Check that the team covenant model fits multicultural teams rather than assuming one cultural norm.

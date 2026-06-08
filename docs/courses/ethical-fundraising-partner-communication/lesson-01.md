@@ -42,6 +42,13 @@ Explain the difference between tentmaker income and a supported worker model in 
 
 Use biblical language, prayer, and relational transparency to remove shame from the ask.
 
+## Funding Models Comparison
+
+| Model | Method | Advantages | Disadvantages |
+| --- | --- | --- | --- |
+| **The Supported Worker** | Relies on a dedicated team of financial and prayer partners. | Full time released for ministry. | Can create foreign dependency; triggers defenses if viewed simply as a "religious worker." |
+| **The Tentmaker (Self-Supported)** | Earns income through local employment or business (Business as Mission). | Highly reproducible, doesn't rely on foreign funds, provides natural cultural access. | Slower language acquisition; requires balancing full-time work with ministry. |
+
 ## Common challenges
 
 Workers often feel guilty about asking. The antidote is to focus on the shared calling and the partner’s role, not on money alone.

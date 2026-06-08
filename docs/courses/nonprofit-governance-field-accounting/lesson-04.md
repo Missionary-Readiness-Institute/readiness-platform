@@ -34,6 +34,19 @@ Host teams should orient, supervise, and monitor short-term volunteers carefully
 
 Collect pastoral references, relevant experience, and any required background checks.
 
+## Short-Term Volunteer Screening Flow
+
+```mermaid
+flowchart TD
+    A["Application<br/>(Basic info, experience, availability)"] --> B["Pastoral/Professional References<br/>(Contact 2+ references; verify eligibility)"]
+    B --> C["Criminal Background Check<br/>(Where legal; verify no disqualifying history)"]
+    C --> D["Liability Waiver Signed<br/>(Understand risks and release organization from liability)"]
+    D --> E["Safeguarding & Child Protection Orientation<br/>(Mandatory training on duty of care and boundaries)"]
+    E --> F["✓ Cleared for Deployment<br/>(Host team notified; orientation scheduled)"]
+    classDef step fill:#f3f4f6,stroke:#2b6cb0,stroke-width:1px;
+    class A,B,C,D,E,F step;
+```
+
 ## Step 2: Obtain liability waivers
 
 Use a waiver that is appropriate for your legal jurisdiction and describes expected risks.

@@ -64,6 +64,12 @@ Ethical storytelling is a protective discipline. It keeps communication compelli
 
 Review the draft Photo/Media Consent Form and apply it to your next update.
 
+## Further reading/resources
+- *Funding Your Ministry* by Scott Morton
+- *The God Ask* by Steve Shadrach
+- *People Raising* by William Dillon
+- *When Helping Hurts* by Steve Corbett and Brian Fikkert
+
 > **Risk / Disclaimer:** This lesson is for general training only and is not financial or legal advice. Consult a qualified attorney or privacy professional for questions about consent, media, or legal exposures.
 
 <div class="course-nav">
