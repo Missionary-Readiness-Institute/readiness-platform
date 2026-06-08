@@ -15,7 +15,7 @@ Under the Creative Commons Attribution license, you may generally share and adap
 
 When reusing or adapting material, use attribution like:
 
-> Adapted from Missionary Readiness Institute, `https://missionary-readiness-institute.github.io/readiness-platform/`
+> Adapted from Missionary Readiness Institute, `https://missionaryreadiness.com/`
 
 If you make changes, note that your version has been adapted.
 
