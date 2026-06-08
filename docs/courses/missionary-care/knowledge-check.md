@@ -1,59 +1,25 @@
 # Knowledge Check
 
-## Structure
+This course uses a graded quiz delivered through Google Forms. Complete the quiz after finishing all five lessons and the practical output assignment.
 
 - Question count: 5
 - Passing threshold: 4 correct responses
-- Question types: multiple choice and short answer
-- Retake guidance: Review Lesson 01 before trying again.
+- Format: multiple choice and short answer
+- Link: [Complete the graded course quiz](https://forms.gle/REPLACE_WITH_YOUR_FORM_LINK)
 
-## Questions
+## Quiz Focus
 
-### 1. Multiple Choice
+- Core concepts from each lesson
+- Practical application toward the course output
+- Key field-ready habits and vocabulary
 
-When should care planning begin?
+## Preparation
 
-- A. Only after a crisis.
-- B. Before, during, and after field involvement.
-- C. Only after language learning.
-- D. Only if someone fails.
+- Review the ungraded skill checks after each lesson.
+- Complete the practical assignment or output.
+- Discuss any unclear points with a mentor, facilitator, or sending partner.
 
-Correct answer: B
-
-### 2. Multiple Choice
-
-Which issue may require qualified professional or official help?
-
-- A. A typo in a newsletter.
-- B. A reading schedule preference.
-- C. A child protection, medical, counseling, legal, or security concern.
-- D. A favorite worship song.
-
-Correct answer: C
-
-### 3. Short Answer
-
-Name two possible missionary stressors.
-
-Model answer: Culture shock, language fatigue, family strain, team conflict, financial pressure, loneliness, disappointment, or unclear expectations.
-
-### 4. Multiple Choice
-
-Why are communication rhythms useful?
-
-- A. They help supporters respond to real needs.
-- B. They replace personal responsibility.
-- C. They guarantee no conflict.
-- D. They make privacy unnecessary.
-
-Correct answer: A
-
-### 5. Short Answer
-
-Who might belong on a basic care plan?
-
-Model answer: Pastor, mentor, sponsor, family contact, medical provider, counselor, field leader, or organization contact.
-
-## Completion Note
-
-This knowledge check supports reflection. It does not replace pastoral care, counseling, medical care, or crisis support.
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back to Course Overview</a>
+  <a class="mri-button primary" href="https://forms.gle/REPLACE_WITH_YOUR_FORM_LINK" target="_blank">Go to Graded Quiz</a>
+</div>

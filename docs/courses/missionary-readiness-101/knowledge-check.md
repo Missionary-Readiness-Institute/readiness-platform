@@ -1,61 +1,25 @@
 # Knowledge Check
 
-This knowledge check is formative. It is meant to help learners confirm basic understanding before discussing the course with a mentor, pastor, sponsor, or sending partner.
-
-## Structure
+This course uses a graded quiz delivered through Google Forms. Complete the quiz after finishing all five lessons and the practical output assignment.
 
 - Question count: 5
 - Passing threshold: 4 correct responses
-- Question types: multiple choice and short answer
-- Retake guidance: Review Lesson 01 before trying again.
+- Format: multiple choice and short answer
+- Link: [Complete the graded course quiz](https://forms.gle/REPLACE_WITH_YOUR_FORM_LINK)
 
-## Questions
+## Quiz Focus
 
-### 1. Multiple Choice
+- Core concepts from each lesson
+- Practical application toward the course output
+- Key field-ready habits and vocabulary
 
-Which statement best describes missionary readiness?
+## Preparation
 
-- A. A guarantee that someone is prepared for every field situation.
-- B. A process of preparing to serve faithfully, safely, respectfully, and accountably.
-- C. A replacement for local church discernment.
-- D. An accredited credential for missionary service.
+- Review the ungraded skill checks after each lesson.
+- Complete the practical assignment or output.
+- Discuss any unclear points with a mentor, facilitator, or sending partner.
 
-Correct answer: B
-
-### 2. Multiple Choice
-
-Why does cross-cultural humility matter?
-
-- A. It helps workers enter communities as learners.
-- B. It removes the need for local leaders.
-- C. It guarantees quick ministry success.
-- D. It replaces language learning.
-
-Correct answer: A
-
-### 3. Short Answer
-
-Name two people or groups who should be part of a healthy readiness conversation.
-
-Model answer: A learner might name a pastor, mentor, local church, family member, sponsor, sending organization, field leader, or trusted ministry advisor.
-
-### 4. Multiple Choice
-
-Which issue should not be handled through a general public contact form?
-
-- A. A typo on a public page.
-- B. A question about course navigation.
-- C. A sensitive legal, medical, counseling, child protection, immigration, tax, or security concern.
-- D. A suggestion for clearer wording.
-
-Correct answer: C
-
-### 5. Short Answer
-
-What is one practical next step a learner can take after this course?
-
-Model answer: A learner might write a readiness reflection, meet with a pastor or mentor, review safety concerns, identify preparation gaps, or create a next-step plan.
-
-## Completion Note
-
-Record your answers and discuss any missed questions with a trusted leader or facilitator. This knowledge check does not certify, commission, or approve anyone for missionary service.
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back to Course Overview</a>
+  <a class="mri-button primary" href="https://forms.gle/REPLACE_WITH_YOUR_FORM_LINK" target="_blank">Go to Graded Quiz</a>
+</div>

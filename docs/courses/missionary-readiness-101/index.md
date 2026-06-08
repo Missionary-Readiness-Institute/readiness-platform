@@ -34,15 +34,23 @@ By the end of this course, learners should be able to:
 
 45-60 minutes.
 
+## Practical Output
+
+A readiness reflection and a draft 30/60/90-day preparation plan.
+
 ## Lessons
 
 1. [What Missionary Readiness Means](lesson-01.md)
-2. [Knowledge Check](knowledge-check.md)
+2. [Readiness Areas & Risk Awareness](lesson-02.md)
+3. [Humility, Accountability, and Support](lesson-03.md)
+4. [Practical Preparation and Transition Planning](lesson-04.md)
+5. [Next-Step Readiness Conversation](lesson-05.md)
+6. [Knowledge Check](knowledge-check.md)
 
 ## Required Reading/Viewing
 
 - Read this course overview.
-- Complete Lesson 01.
+- Complete all five lessons.
 - Review the platform [Mission & Vision](../../mission-vision.md).
 
 ## Reflection Questions
@@ -59,7 +67,7 @@ Write a one-page readiness reflection. Include your current sense of calling, su
 
 Learners complete this course by:
 
-- Reading the course overview and Lesson 01.
+- Reading the course overview and all lessons.
 - Answering the reflection questions.
 - Completing the knowledge check.
 - Drafting the practical assignment for discussion with a mentor, pastor, sponsor, or sending partner.
@@ -79,3 +87,8 @@ This course may later be eligible for a certificate of completion if the platfor
 | Date | Version | Notes |
 | --- | --- | --- |
 | June 7, 2026 | `0.1` | Initial public draft. |
+
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back to Course Catalog</a>
+  <a class="mri-button primary" href="lesson-01.md">Start Lesson 1</a>
+</div>

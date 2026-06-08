@@ -33,3 +33,8 @@ The first year often requires language learning, relationship building, local or
 ## Lesson Summary
 
 Field readiness is not about controlling every outcome. It is about preparing responsibly and knowing where wisdom, authority, and qualified help are needed.
+
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back</a>
+  <a class="mri-button primary" href="lesson-02.md">Next Lesson</a>
+</div>

@@ -32,15 +32,23 @@ By the end of this course, learners should be able to:
 
 60-75 minutes.
 
+## Practical Output
+
+A field-readiness checklist and initial go-bag plan.
+
 ## Lessons
 
 1. [Preparing For Field Entry](lesson-01.md)
-2. [Knowledge Check](knowledge-check.md)
+2. [Environmental Awareness and Threat Levels](lesson-02.md)
+3. [Communication Protocols and Digital Hygiene](lesson-03.md)
+4. [Documents, Logistics, and Support Contacts](lesson-04.md)
+5. [Go-Bag Preparation and Evacuation Planning](lesson-05.md)
+6. [Knowledge Check](knowledge-check.md)
 
 ## Required Reading/Viewing
 
 - Read the course overview.
-- Complete Lesson 01.
+- Complete all five lessons.
 - Review field-specific requirements from your church, sponsor, organization, or local leaders.
 
 ## Reflection Questions
@@ -55,7 +63,7 @@ Create a field-readiness checklist covering documents, communication, support, h
 
 ## Completion Criteria
 
-- Review the overview and Lesson 01.
+- Review the overview and all lessons.
 - Answer the reflection questions.
 - Complete the knowledge check.
 - Draft and review a field-readiness checklist with responsible leaders.
@@ -78,3 +86,8 @@ This course may later be eligible for a certificate of completion. A certificate
 | Date | Version | Notes |
 | --- | --- | --- |
 | June 7, 2026 | `0.1` | Initial public draft. |
+
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back to Course Catalog</a>
+  <a class="mri-button primary" href="lesson-01.md">Start Lesson 1</a>
+</div>

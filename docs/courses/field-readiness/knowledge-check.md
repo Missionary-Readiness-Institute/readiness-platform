@@ -1,59 +1,25 @@
 # Knowledge Check
 
-## Structure
+This course uses a graded quiz delivered through Google Forms. Complete the quiz after finishing all five lessons and the practical output assignment.
 
 - Question count: 5
 - Passing threshold: 4 correct responses
-- Question types: multiple choice and short answer
-- Retake guidance: Review Lesson 01 before trying again.
+- Format: multiple choice and short answer
+- Link: [Complete the graded course quiz](https://forms.gle/REPLACE_WITH_YOUR_FORM_LINK)
 
-## Questions
+## Quiz Focus
 
-### 1. Multiple Choice
+- Core concepts from each lesson
+- Practical application toward the course output
+- Key field-ready habits and vocabulary
 
-What is one purpose of field readiness?
+## Preparation
 
-- A. To clarify practical responsibilities before departure.
-- B. To avoid all uncertainty.
-- C. To replace local legal requirements.
-- D. To guarantee ministry results.
+- Review the ungraded skill checks after each lesson.
+- Complete the practical assignment or output.
+- Discuss any unclear points with a mentor, facilitator, or sending partner.
 
-Correct answer: A
-
-### 2. Multiple Choice
-
-Which topic may require qualified professional guidance?
-
-- A. Favorite notebook style.
-- B. Legal, immigration, medical, tax, or security questions.
-- C. Preferred reading time.
-- D. Personal color preferences.
-
-Correct answer: B
-
-### 3. Short Answer
-
-Name two items that could belong on a field-readiness checklist.
-
-Model answer: Documents, visa questions, emergency contacts, insurance, communication rhythms, support plan, health preparation, risk awareness, local expectations, or first-year goals.
-
-### 4. Multiple Choice
-
-What should the first year often prioritize?
-
-- A. Public visibility above learning.
-- B. Language learning, relationships, local orientation, and realistic limits.
-- C. Avoiding local leaders.
-- D. Working without accountability.
-
-Correct answer: B
-
-### 5. Short Answer
-
-Who could help answer field-specific questions responsibly?
-
-Model answer: A sending organization, local church leader, field leader, qualified legal professional, medical professional, security advisor, or experienced mentor.
-
-## Completion Note
-
-This knowledge check supports reflection. It does not provide legal, immigration, medical, tax, or security advice.
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back to Course Overview</a>
+  <a class="mri-button primary" href="https://forms.gle/REPLACE_WITH_YOUR_FORM_LINK" target="_blank">Go to Graded Quiz</a>
+</div>

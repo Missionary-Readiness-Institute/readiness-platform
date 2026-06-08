@@ -33,3 +33,8 @@ Trusted leaders and peers can help learners notice blind spots, confess honestly
 ## Lesson Summary
 
 Spiritual formation is not a decorative add-on to missionary service. It is part of the foundation for faithful, humble, and durable ministry.
+
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back</a>
+  <a class="mri-button primary" href="lesson-02.md">Next Lesson</a>
+</div>

@@ -7,7 +7,7 @@ Language Learning introduces realistic expectations and practical habits for lea
 
 ## Course Purpose
 
-This course helps learners treat language learning as an act of love, humility, and practical preparation.
+This course helps learners treat language learning as an act of love, humility, and practical preparation. It also introduces the difference between trade language and heart language, and invites learners to build agreements with local helpers for safe practice.
 
 ## Intended Audience
 
@@ -25,22 +25,33 @@ By the end of this course, learners should be able to:
 
 - Set realistic expectations for language acquisition.
 - Describe daily habits that support progress.
-- Practice humility when communication is slow or uncomfortable.
+- Differentiate trade language and heart language.
+- Use local helpers respectfully and with clear boundaries.
 - Plan for language learning as ministry preparation, not a side task.
 
 ## Estimated Time
 
 45-60 minutes.
 
+## Practical Output
+
+A 30/60/90-day language learning plan, a short reflection on how you will use a local language helper, and a proposed helper agreement for practicing respectfully.
+
 ## Lessons
 
 1. [Language Learning As Love](lesson-01.md)
-2. [Knowledge Check](knowledge-check.md)
+2. [Listening-First Habits](lesson-02.md)
+3. [Local Helpers and Feedback](lesson-03.md)
+4. [Managing Frustration and Progress](lesson-04.md)
+5. [Daily Practice Plan](lesson-05.md)
+6. [Knowledge Check](knowledge-check.md)
 
-## Required Reading/Viewing
+## Suggested Reading & Resources
 
+- *Fluent Forever* — using pronunciation, memory, and spaced repetition to learn a language.
+- *Language Hacking* — practical methods for rapid, real-world speaking and listening.
 - Read the course overview.
-- Complete Lesson 01.
+- Complete all five lessons.
 - Identify one language-learning resource or local helper option for your context.
 
 ## Reflection Questions
@@ -55,7 +66,7 @@ Create a two-week language-learning practice plan with daily listening, review, 
 
 ## Completion Criteria
 
-- Review the overview and Lesson 01.
+- Review the overview and all lessons.
 - Answer the reflection questions.
 - Complete the knowledge check.
 - Draft a two-week practice plan.
@@ -75,3 +86,8 @@ This course may later be eligible for a certificate of completion. A certificate
 | Date | Version | Notes |
 | --- | --- | --- |
 | June 7, 2026 | `0.1` | Initial public draft. |
+
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back to Course Catalog</a>
+  <a class="mri-button primary" href="lesson-01.md">Start Lesson 1</a>
+</div>

@@ -32,15 +32,23 @@ By the end of this course, learners should be able to:
 
 60-75 minutes.
 
+## Practical Output
+
+A personal care plan and support rhythm for worker health.
+
 ## Lessons
 
 1. [Care Is Part Of Readiness](lesson-01.md)
-2. [Knowledge Check](knowledge-check.md)
+2. [Team and Family Health](lesson-02.md)
+3. [Boundaries, Energy, and Rest](lesson-03.md)
+4. [Support Communication and Recovery](lesson-04.md)
+5. [Sustainable Care Habits](lesson-05.md)
+6. [Knowledge Check](knowledge-check.md)
 
 ## Required Reading/Viewing
 
 - Read the course overview.
-- Complete Lesson 01.
+- Complete all five lessons.
 - Review any care expectations from your church, sponsor, or sending organization.
 
 ## Reflection Questions
@@ -55,7 +63,7 @@ Draft a basic care plan with names, communication rhythms, escalation steps, and
 
 ## Completion Criteria
 
-- Review the overview and Lesson 01.
+- Review the overview and all lessons.
 - Answer the reflection questions.
 - Complete the knowledge check.
 - Draft a care plan for discussion with trusted leaders.
@@ -78,3 +86,8 @@ This course may later be eligible for a certificate of completion. A certificate
 | Date | Version | Notes |
 | --- | --- | --- |
 | June 7, 2026 | `0.1` | Initial public draft. |
+
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back to Course Catalog</a>
+  <a class="mri-button primary" href="lesson-01.md">Start Lesson 1</a>
+</div>

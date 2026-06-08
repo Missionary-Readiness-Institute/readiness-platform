@@ -1,59 +1,25 @@
 # Knowledge Check
 
-## Structure
+This course uses a graded quiz delivered through Google Forms. Complete the quiz after finishing all five lessons and the practical output assignment.
 
 - Question count: 5
 - Passing threshold: 4 correct responses
-- Question types: multiple choice and short answer
-- Retake guidance: Review Lesson 01 before trying again.
+- Format: multiple choice and short answer
+- Link: [Complete the graded course quiz](https://forms.gle/REPLACE_WITH_YOUR_FORM_LINK)
 
-## Questions
+## Quiz Focus
 
-### 1. Multiple Choice
+- Core concepts from each lesson
+- Practical application toward the course output
+- Key field-ready habits and vocabulary
 
-What best describes spiritual formation?
+## Preparation
 
-- A. A way to look impressive in ministry.
-- B. The ongoing shaping of character, worship, prayer, obedience, and community.
-- C. A replacement for practical preparation.
-- D. A guarantee that missionary service will be easy.
+- Review the ungraded skill checks after each lesson.
+- Complete the practical assignment or output.
+- Discuss any unclear points with a mentor, facilitator, or sending partner.
 
-Correct answer: B
-
-### 2. Multiple Choice
-
-Why does rest matter for readiness?
-
-- A. It helps learners recognize limits and resist unhealthy productivity.
-- B. It removes the need for planning.
-- C. It proves someone is spiritually mature.
-- D. It replaces accountability.
-
-Correct answer: A
-
-### 3. Short Answer
-
-Name two spiritual practices that can support durable service.
-
-Model answer: Scripture, prayer, worship, obedience, repentance, rest, accountability, or local church participation.
-
-### 4. Multiple Choice
-
-What should public ministry avoid doing?
-
-- A. Growing from private faithfulness.
-- B. Serving local communities.
-- C. Outrunning private faithfulness and character.
-- D. Involving trusted leaders.
-
-Correct answer: C
-
-### 5. Short Answer
-
-Who could help you discuss spiritual readiness honestly?
-
-Model answer: A pastor, mentor, elder, trusted friend, sponsor, sending leader, or mature believer.
-
-## Completion Note
-
-This knowledge check supports reflection. It does not certify, commission, or approve anyone for missionary service.
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back to Course Overview</a>
+  <a class="mri-button primary" href="https://forms.gle/REPLACE_WITH_YOUR_FORM_LINK" target="_blank">Go to Graded Quiz</a>
+</div>

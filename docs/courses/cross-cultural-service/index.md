@@ -32,15 +32,23 @@ By the end of this course, learners should be able to:
 
 60-75 minutes.
 
+## Practical Output
+
+A cultural learning fieldbook starter and a reproducible storying habit sheet.
+
 ## Lessons
 
 1. [Entering As A Learner](lesson-01.md)
-2. [Knowledge Check](knowledge-check.md)
+2. [Listening and Observation Practices](lesson-02.md)
+3. [Local Authority, Ritual, and Respect](lesson-03.md)
+4. [Narrative Learning and Storying](lesson-04.md)
+5. [Reproducible Group Habits](lesson-05.md)
+6. [Knowledge Check](knowledge-check.md)
 
 ## Required Reading/Viewing
 
 - Read the course overview.
-- Complete Lesson 01.
+- Complete all five lessons.
 - Review one reputable resource on cross-cultural listening or local leadership.
 
 ## Reflection Questions
@@ -55,7 +63,7 @@ Interview someone with meaningful cross-cultural experience. Ask what helped the
 
 ## Completion Criteria
 
-- Review the overview and Lesson 01.
+- Review the overview and all lessons.
 - Answer the reflection questions.
 - Complete the knowledge check.
 - Complete the interview assignment and summarize what you learned.
@@ -75,3 +83,8 @@ This course may later be eligible for a certificate of completion. A certificate
 | Date | Version | Notes |
 | --- | --- | --- |
 | June 7, 2026 | `0.1` | Initial public draft. |
+
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back to Course Catalog</a>
+  <a class="mri-button primary" href="lesson-01.md">Start Lesson 1</a>
+</div>

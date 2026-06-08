@@ -1,59 +1,25 @@
 # Knowledge Check
 
-## Structure
+This course uses a graded quiz delivered through Google Forms. Complete the quiz after finishing all five lessons and the practical output assignment.
 
 - Question count: 5
 - Passing threshold: 4 correct responses
-- Question types: multiple choice and short answer
-- Retake guidance: Review Lesson 01 before trying again.
+- Format: multiple choice and short answer
+- Link: [Complete the graded course quiz](https://forms.gle/REPLACE_WITH_YOUR_FORM_LINK)
 
-## Questions
+## Quiz Focus
 
-### 1. Multiple Choice
+- Core concepts from each lesson
+- Practical application toward the course output
+- Key field-ready habits and vocabulary
 
-What should a learner do before offering solutions in a new culture?
+## Preparation
 
-- A. Listen, observe, and ask careful questions.
-- B. Assume their home culture has the best answer.
-- C. Avoid local leaders.
-- D. Move quickly to prove usefulness.
+- Review the ungraded skill checks after each lesson.
+- Complete the practical assignment or output.
+- Discuss any unclear points with a mentor, facilitator, or sending partner.
 
-Correct answer: A
-
-### 2. Multiple Choice
-
-Why should workers honor local leaders?
-
-- A. Local leaders understand context and carry responsibility.
-- B. Local leaders make preparation unnecessary.
-- C. Outsiders cannot learn anything.
-- D. It guarantees quick success.
-
-Correct answer: A
-
-### 3. Short Answer
-
-Name one assumption a cross-cultural worker may need to examine.
-
-Model answer: Assumptions about time, authority, family, money, communication, worship, gender roles, hospitality, or leadership.
-
-### 4. Multiple Choice
-
-What is one sign of cultural humility?
-
-- A. Correcting people before understanding them.
-- B. Receiving correction and learning patiently.
-- C. Avoiding all local relationships.
-- D. Treating culture as irrelevant.
-
-Correct answer: B
-
-### 5. Short Answer
-
-What question could you ask a local believer or leader to learn well?
-
-Model answer: A learner might ask, "What do outsiders often misunderstand here?" or "What should I learn before trying to help?"
-
-## Completion Note
-
-This knowledge check supports reflection. It does not certify, commission, or approve anyone for missionary service.
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back to Course Overview</a>
+  <a class="mri-button primary" href="https://forms.gle/REPLACE_WITH_YOUR_FORM_LINK" target="_blank">Go to Graded Quiz</a>
+</div>

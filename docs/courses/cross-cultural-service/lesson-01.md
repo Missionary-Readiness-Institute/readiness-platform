@@ -33,3 +33,8 @@ Trust grows slowly. Faithful service often begins with small acts of reliability
 ## Lesson Summary
 
 Cross-cultural service requires a learner's posture. Humility is not weakness; it is part of faithful preparation.
+
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back</a>
+  <a class="mri-button primary" href="lesson-02.md">Next Lesson</a>
+</div>

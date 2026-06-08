@@ -33,3 +33,8 @@ Small daily habits usually help more than occasional intense effort.
 ## Lesson Summary
 
 Language learning is part of faithful presence. It helps workers listen, respect, and serve more personally.
+
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back</a>
+  <a class="mri-button primary" href="lesson-02.md">Next Lesson</a>
+</div>

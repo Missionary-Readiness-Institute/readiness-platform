@@ -1,97 +1,237 @@
 site_name: Missionary Readiness Institute
 site_description: Practical training for faithful cross-cultural service.
 site_url: https://missionaryreadiness.com/
-
 repo_name: Missionary-Readiness-Institute/readiness-platform
 repo_url: https://github.com/Missionary-Readiness-Institute/readiness-platform
+exclude_docs: 'project/
 
-exclude_docs: |
-  project/
-
+  '
 theme:
   name: material
   logo: assets/images/mri-logo.png
   favicon: assets/images/mri-favicon.png
   features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - search.highlight
-    - search.suggest
-    - content.code.copy
+  - navigation.tabs
+  - navigation.sections
+  - navigation.top
+  - search.highlight
+  - search.suggest
+  - content.code.copy
   palette:
-    # Light mode
-    - scheme: default
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-
-    # Dark mode
-    - scheme: slate
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
-
+  - scheme: default
+    primary: custom
+    accent: custom
+    toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
+  - scheme: slate
+    primary: custom
+    accent: custom
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
 extra_css:
-  - assets/stylesheets/extra.css
-  - assets/stylesheets/skill-check.css
-
+- assets/stylesheets/extra.css
+- assets/stylesheets/skill-check.css
 extra_javascript:
-  - assets/js/skill-check.js
-
+- assets/js/skill-check.js
 extra:
   social:
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/MissionaryReadinessInstitute
-      name: Missionary Readiness Institute on Facebook
-
+  - icon: fontawesome/brands/facebook
+    link: https://www.facebook.com/MissionaryReadinessInstitute
+    name: Missionary Readiness Institute on Facebook
 nav:
-  - Home: index.md
-  - About: about.md
-  - Mission & Vision: mission-vision.md
-  - Sponsor Brief: sponsor-brief.md
-  - Courses:
-      - Course Overview: courses/index.md
-      - Missionary Readiness 101:
-          - Overview: courses/missionary-readiness-101/index.md
-          - Lesson 01: courses/missionary-readiness-101/lesson-01.md
-          - Knowledge Check: courses/missionary-readiness-101/knowledge-check.md
-      - Spiritual Formation:
-          - Overview: courses/spiritual-formation/index.md
-          - Lesson 01: courses/spiritual-formation/lesson-01.md
-          - Knowledge Check: courses/spiritual-formation/knowledge-check.md
-      - Cross-Cultural Service:
-          - Overview: courses/cross-cultural-service/index.md
-          - Lesson 01: courses/cross-cultural-service/lesson-01.md
-          - Knowledge Check: courses/cross-cultural-service/knowledge-check.md
-      - Missionary Care:
-          - Overview: courses/missionary-care/index.md
-          - Lesson 01: courses/missionary-care/lesson-01.md
-          - Knowledge Check: courses/missionary-care/knowledge-check.md
-      - Language Learning:
-          - Overview: courses/language-learning/index.md
-          - Lesson 01: courses/language-learning/lesson-01.md
-          - Knowledge Check: courses/language-learning/knowledge-check.md
-      - Field Readiness:
-          - Overview: courses/field-readiness/index.md
-          - Lesson 01: courses/field-readiness/lesson-01.md
-          - Knowledge Check: courses/field-readiness/knowledge-check.md
-  - Contact: contact.md
-  - Policies:
-      - Overview: policies/index.md
-      - Privacy Policy: policies/privacy.md
-      - Terms of Use: policies/terms.md
-      - Acceptable Use: policies/acceptable-use.md
-      - Copyright & License: policies/copyright-license.md
-      - Disclaimer: policies/disclaimer.md
-
+- Home: index.md
+- About: about.md
+- Mission & Vision: mission-vision.md
+- Sponsor Brief: sponsor-brief.md
+- Courses:
+  - Overview: courses/index.md
+  - Course Catalog:
+    - Overview: courses/index.md
+  - Level 1 Starter:
+    - Missionary Readiness 101:
+      - Overview: courses/missionary-readiness-101/index.md
+      - 'Lesson 01: What Missionary Readiness Means': courses/missionary-readiness-101/lesson-01.md
+      - 'Lesson 02: Readiness Areas & Risk Awareness': courses/missionary-readiness-101/lesson-02.md
+      - 'Lesson 03: Humility, Accountability, and Support': courses/missionary-readiness-101/lesson-03.md
+      - 'Lesson 04: Practical Preparation and Transition Planning': courses/missionary-readiness-101/lesson-04.md
+      - 'Lesson 05: Next-Step Readiness Conversation': courses/missionary-readiness-101/lesson-05.md
+      - Knowledge Check: courses/missionary-readiness-101/knowledge-check.md
+    - Spiritual Formation:
+      - Overview: courses/spiritual-formation/index.md
+      - 'Lesson 01: Formation Before Activity': courses/spiritual-formation/lesson-01.md
+      - 'Lesson 02: Worship and Scripture Rhythms': courses/spiritual-formation/lesson-02.md
+      - 'Lesson 03: Prayer, Rest, and Emotional Resilience': courses/spiritual-formation/lesson-03.md
+      - 'Lesson 04: Accountability, Community, and Confession': courses/spiritual-formation/lesson-04.md
+      - 'Lesson 05: Obedience Habits and Next Steps': courses/spiritual-formation/lesson-05.md
+      - Knowledge Check: courses/spiritual-formation/knowledge-check.md
+    - Cross-Cultural Service:
+      - Overview: courses/cross-cultural-service/index.md
+      - 'Lesson 01: Entering As A Learner': courses/cross-cultural-service/lesson-01.md
+      - 'Lesson 02: Listening and Observation Practices': courses/cross-cultural-service/lesson-02.md
+      - 'Lesson 03: Local Authority, Ritual, and Respect': courses/cross-cultural-service/lesson-03.md
+      - 'Lesson 04: Narrative Learning and Storying': courses/cross-cultural-service/lesson-04.md
+      - 'Lesson 05: Reproducible Group Habits': courses/cross-cultural-service/lesson-05.md
+      - Knowledge Check: courses/cross-cultural-service/knowledge-check.md
+    - Missionary Care:
+      - Overview: courses/missionary-care/index.md
+      - 'Lesson 01: Care Is Part Of Readiness': courses/missionary-care/lesson-01.md
+      - 'Lesson 02: Team and Family Health': courses/missionary-care/lesson-02.md
+      - 'Lesson 03: Boundaries, Energy, and Rest': courses/missionary-care/lesson-03.md
+      - 'Lesson 04: Support Communication and Recovery': courses/missionary-care/lesson-04.md
+      - 'Lesson 05: Sustainable Care Habits': courses/missionary-care/lesson-05.md
+      - Knowledge Check: courses/missionary-care/knowledge-check.md
+    - Language Learning:
+      - Overview: courses/language-learning/index.md
+      - 'Lesson 01: Language Learning As Love': courses/language-learning/lesson-01.md
+      - 'Lesson 02: Listening-First Habits': courses/language-learning/lesson-02.md
+      - 'Lesson 03: Local Helpers and Feedback': courses/language-learning/lesson-03.md
+      - 'Lesson 04: Managing Frustration and Progress': courses/language-learning/lesson-04.md
+      - 'Lesson 05: Daily Practice Plan': courses/language-learning/lesson-05.md
+      - Knowledge Check: courses/language-learning/knowledge-check.md
+    - Field Language Acquisition:
+      - Overview: courses/field-language-acquisition/index.md
+      - 'Lesson 01: The Learner-Driven Model & "Power Tools"': courses/field-language-acquisition/lesson-01.md
+      - 'Lesson 02: Total Physical Response (TPR) and Object Manipulation': courses/field-language-acquisition/lesson-02.md
+      - 'Lesson 03: The Picture Book Technique': courses/field-language-acquisition/lesson-03.md
+      - 'Lesson 04: Language Acquisition Projects (LAPs) & Shared Experiences': courses/field-language-acquisition/lesson-04.md
+      - 'Lesson 05: The Emotional Toll of Language Learning': courses/field-language-acquisition/lesson-05.md
+      - Field Tools:
+        - The "Power Tools" Starter List: courses/field-language-acquisition/power-tools-starter-list.md
+        - Language Helper Agreement: courses/field-language-acquisition/language-helper-agreement.md
+        - 90-Day Language Acquisition Plan (LAP): courses/field-language-acquisition/90-day-language-acquisition-plan.md
+    - Field Readiness:
+      - Overview: courses/field-readiness/index.md
+      - 'Lesson 01: Preparing For Field Entry': courses/field-readiness/lesson-01.md
+      - 'Lesson 02: Environmental Awareness and Threat Levels': courses/field-readiness/lesson-02.md
+      - 'Lesson 03: Communication Protocols and Digital Hygiene': courses/field-readiness/lesson-03.md
+      - 'Lesson 04: Documents, Logistics, and Support Contacts': courses/field-readiness/lesson-04.md
+      - 'Lesson 05: Go-Bag Preparation and Evacuation Planning': courses/field-readiness/lesson-05.md
+      - Knowledge Check: courses/field-readiness/knowledge-check.md
+  - Level 2 Field Practitioner:
+    - Culture & Worldview Fieldbook:
+      - Overview: courses/culture-worldview-fieldbook/index.md
+      - 'Lesson 01: The Six Worldview Lenses': courses/culture-worldview-fieldbook/lesson-01.md
+      - 'Lesson 02: Understanding Animism and Avoiding Syncretism': courses/culture-worldview-fieldbook/lesson-02.md
+      - 'Lesson 03: The Observation to Implication Framework': courses/culture-worldview-fieldbook/lesson-03.md
+      - Knowledge Check: courses/culture-worldview-fieldbook/knowledge-check.md
+    - Community & Worldview Fieldbook:
+      - Overview: courses/community-worldview-fieldbook/index.md
+      - 'Lesson 01: Conformity vs. True Discipleship (The Local Snakes)': courses/community-worldview-fieldbook/lesson-01.md
+      - 'Lesson 02: The Three Buckets of Legalism': courses/community-worldview-fieldbook/lesson-02.md
+      - 'Lesson 03: The Illustration Filter (Communicating in Context)': courses/community-worldview-fieldbook/lesson-03.md
+      - 'Lesson 04: Mapping the Players and Core Foci': courses/community-worldview-fieldbook/lesson-04.md
+      - 'Lesson 05: Harvesting Proverbs and Idioms': courses/community-worldview-fieldbook/lesson-05.md
+      - Field Tools:
+        - The Three Buckets Worksheet: courses/community-worldview-fieldbook/the-three-buckets-worksheet.md
+        - Illustration Filter Matrix: courses/community-worldview-fieldbook/illustration-filter-matrix.md
+        - Spiritual Players Profile: courses/community-worldview-fieldbook/spiritual-players-profile.md
+        - Local Proverb & Idiom Tracker: courses/community-worldview-fieldbook/local-proverb-idiom-tracker.md
+    - Orality & Movement-Based Discipleship:
+      - Overview: courses/orality-movement-based-discipleship/index.md
+      - 'Lesson 01: The Orality Challenge and Secondary Orality': courses/orality-movement-based-discipleship/lesson-01.md
+      - 'Lesson 02: Chronological Bible Storying (CBS)': courses/orality-movement-based-discipleship/lesson-02.md
+      - 'Lesson 03: The S-T4T Evangelism Flow': courses/orality-movement-based-discipleship/lesson-03.md
+      - 'Lesson 04: Finding the Person of Peace & Tentmaking': courses/orality-movement-based-discipleship/lesson-04.md
+      - 'Lesson 05: Disciple-Making Learning Communities (DMLC)': courses/orality-movement-based-discipleship/lesson-05.md
+      - Field Tools:
+        - The 10-Step Story Crafting Worksheet: courses/orality-movement-based-discipleship/the-10-step-story-crafting-worksheet.md
+        - S-T4T Evangelism Flowchart: courses/orality-movement-based-discipleship/s-t4t-evangelism-flowchart.md
+        - Person of Peace Community Mapping Guide: courses/orality-movement-based-discipleship/person-of-peace-community-mapping-guide.md
+        - DMLC 90-Day Action Plan: courses/orality-movement-based-discipleship/dmlc-90-day-action-plan.md
+    - Field Resilience, Team Health, and Reentry:
+      - Overview: courses/field-resilience-team-health-reentry/index.md
+      - 'Lesson 01: Person Formation and the Crucible of Cross-Cultural Stress': courses/field-resilience-team-health-reentry/lesson-01.md
+      - 'Lesson 02: The E-Scale of Ministry (Measuring Cultural Distance)': courses/field-resilience-team-health-reentry/lesson-02.md
+      - 'Lesson 03: Navigating Team Culture vs. Host Culture': courses/field-resilience-team-health-reentry/lesson-03.md
+      - 'Lesson 04: Single Workers, Marriages, and Third-Culture Kids (TCKs)': courses/field-resilience-team-health-reentry/lesson-04.md
+      - 'Lesson 05: Avoiding Reentry Shock: The RAFT Principle': courses/field-resilience-team-health-reentry/lesson-05.md
+      - Field Tools:
+        - The RAFT Transition Checklist: courses/field-resilience-team-health-reentry/raft-transition-checklist.md
+        - Multicultural Team Covenant: courses/field-resilience-team-health-reentry/multicultural-team-covenant.md
+        - The E-Scale Ministry Assessment: courses/field-resilience-team-health-reentry/e-scale-ministry-assessment.md
+        - Reentry Debrief Guide: courses/field-resilience-team-health-reentry/reentry-debrief-guide.md
+    - Worldview Transformation & Avoiding Syncretism:
+      - Overview: courses/worldview-transformation/index.md
+      - 'Lesson 01: The Three Buckets Framework': courses/worldview-transformation/lesson-01.md
+      - 'Lesson 02: Syncretism vs Dual Allegiance': courses/worldview-transformation/lesson-02.md
+      - 'Lesson 03: The Cycles of Behavior': courses/worldview-transformation/lesson-03.md
+      - 'Lesson 04: Tool Swaps and Player Confusion': courses/worldview-transformation/lesson-04.md
+      - 'Lesson 05: Replacing Core Foci': courses/worldview-transformation/lesson-05.md
+      - Knowledge Check: courses/worldview-transformation/knowledge-check.md
+      - Assessment: courses/worldview-transformation/worldview-tool-swap-assessment.md
+    - Biblical Missiology & Multiplication:
+      - Overview: courses/biblical-missiology-multiplication/index.md
+      - 'Lesson 01: The Paradigm Shift to Church Planting Movements': courses/biblical-missiology-multiplication/lesson-01.md
+      - 'Lesson 02: Non-Extractive Training & Tentmaking': courses/biblical-missiology-multiplication/lesson-02.md
+      - 'Lesson 03: The MAWL Principle: Model, Assist, Watch, Leave': courses/biblical-missiology-multiplication/lesson-03.md
+      - 'Lesson 04: Obedience-Based Discipleship: DBS and T4T': courses/biblical-missiology-multiplication/lesson-04.md
+      - 'Lesson 05: Orality and the Storying Strategy': courses/biblical-missiology-multiplication/lesson-05.md
+      - Knowledge Check: courses/biblical-missiology-multiplication/knowledge-check.md
+    - Ethical Fundraising & Partner Communication:
+      - Overview: courses/ethical-fundraising-partner-communication/index.md
+      - 'Lesson 01: The Biblical Foundation of Support Raising': courses/ethical-fundraising-partner-communication/lesson-01.md
+      - 'Lesson 02: Developing a Partnership Team & The "God Ask"': courses/ethical-fundraising-partner-communication/lesson-02.md
+      - 'Lesson 03: Managing Restricted Gifts vs. Unrestricted Gifts': courses/ethical-fundraising-partner-communication/lesson-03.md
+      - 'Lesson 04: Ethical Storytelling and Avoiding Poverty Porn': courses/ethical-fundraising-partner-communication/lesson-04.md
+      - 'Lesson 05: Sensitive-Context Communication & Digital Security': courses/ethical-fundraising-partner-communication/lesson-05.md
+      - Knowledge Check: courses/ethical-fundraising-partner-communication/knowledge-check.md
+      - Field Tools:
+        - Donor Communication Risk Guide: courses/ethical-fundraising-partner-communication/donor-communication-risk-guide.md
+        - Photo/Media Consent Form: courses/ethical-fundraising-partner-communication/photo-media-consent-form.md
+        - Gift Acceptance Policy: courses/ethical-fundraising-partner-communication/gift-acceptance-policy.md
+    - Team Dynamics, Leadership, and Conflict Repair:
+      - Overview: courses/team-dynamics-leadership-conflict-repair/index.md
+      - 'Lesson 01: Decentralized Leadership': courses/team-dynamics-leadership-conflict-repair/lesson-01.md
+      - 'Lesson 02: Navigating High-Stakes Dialogue': courses/team-dynamics-leadership-conflict-repair/lesson-02.md
+      - 'Lesson 03: Shifting Perspectives in Conflict': courses/team-dynamics-leadership-conflict-repair/lesson-03.md
+      - 'Lesson 04: The Huddle Principle and Shared Burdens': courses/team-dynamics-leadership-conflict-repair/lesson-04.md
+      - Knowledge Check: courses/team-dynamics-leadership-conflict-repair/knowledge-check.md
+  - Level 3 Leadership & Security:
+    - Advanced Field Security & Crisis Evacuation:
+      - Overview: courses/advanced-field-security/index.md
+      - 'Lesson 01: Integrated vs. Defensive Security': courses/advanced-field-security/lesson-01.md
+      - 'Lesson 02: Tiered Risk Management and Situational Awareness': courses/advanced-field-security/lesson-02.md
+      - 'Lesson 03: The 5-Tier Evacuation Protocol': courses/advanced-field-security/lesson-03.md
+      - 'Lesson 04: Corporate Evacuation and Continuity Planning': courses/advanced-field-security/lesson-04.md
+      - 'Lesson 05: Secure Communications and Digital Hygiene': courses/advanced-field-security/lesson-05.md
+      - Knowledge Check: courses/advanced-field-security/knowledge-check.md
+    - Crisis Management & Organizational Member Care:
+      - Overview: courses/crisis-management-organizational-member-care/index.md
+      - "Lesson 01: The 7 S's of Member Care": courses/crisis-management-organizational-member-care/lesson-01.md
+      - 'Lesson 02: Pre-Crisis Planning and Decision-Making Authority (DMA)': courses/crisis-management-organizational-member-care/lesson-02.md
+      - 'Lesson 03: The Crisis Management Team (CMT) & Communications': courses/crisis-management-organizational-member-care/lesson-03.md
+      - 'Lesson 04: Incident Response: Hibernation, Relocation, and Evacuation': courses/crisis-management-organizational-member-care/lesson-04.md
+      - 'Lesson 05: Trauma Triage and Death of a Field Worker': courses/crisis-management-organizational-member-care/lesson-05.md
+      - Field Tools:
+        - The 7 S's Member Care Audit: courses/crisis-management-organizational-member-care/seven-ss-member-care-audit.md
+        - Crisis Management Team (CMT) Charter: courses/crisis-management-organizational-member-care/cmt-charter.md
+        - Field Emergency Evacuation Matrix: courses/crisis-management-organizational-member-care/field-emergency-evacuation-matrix.md
+    - Nonprofit Governance & Field Accounting:
+      - Overview: courses/nonprofit-governance-field-accounting/index.md
+      - 'Lesson 01: Mission Boundaries and Board Governance': courses/nonprofit-governance-field-accounting/lesson-01.md
+      - 'Lesson 02: Ethical Conduct, Authority, and Conflicts of Interest': courses/nonprofit-governance-field-accounting/lesson-02.md
+      - 'Lesson 03: Field Accounting and Cash Controls': courses/nonprofit-governance-field-accounting/lesson-03.md
+      - 'Lesson 04: Short-Term Volunteer Screening and Liability': courses/nonprofit-governance-field-accounting/lesson-04.md
+      - 'Lesson 05: Annual Review and Document Retention': courses/nonprofit-governance-field-accounting/lesson-05.md
+      - Knowledge Check: courses/nonprofit-governance-field-accounting/knowledge-check.md
+      - Field Tools:
+        - Basic Bylaws & Board Minutes Template: courses/nonprofit-governance-field-accounting/basic-bylaws-board-minutes-template.md
+        - Conflict-of-Interest Disclosure: courses/nonprofit-governance-field-accounting/conflict-of-interest-disclosure.md
+        - Petty Cash Ledger & Expense Reimbursement Form: courses/nonprofit-governance-field-accounting/petty-cash-ledger-expense-reimbursement-form.md
+        - Short-Term Volunteer Application & Liability Waiver: courses/nonprofit-governance-field-accounting/short-term-volunteer-application-liability-waiver.md
+- Contact: contact.md
+- Policies:
+  - Overview: policies/index.md
+  - Privacy Policy: policies/privacy.md
+  - Terms of Use: policies/terms.md
+  - Acceptable Use: policies/acceptable-use.md
+  - Copyright & License: policies/copyright-license.md
+  - Disclaimer: policies/disclaimer.md
 markdown_extensions:
-  - admonition
-  - attr_list
-  - md_in_html
-  - toc:
-      permalink: true
+- admonition
+- attr_list
+- md_in_html
+- toc:
+    permalink: true

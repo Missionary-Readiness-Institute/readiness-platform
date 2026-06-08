@@ -1,59 +1,25 @@
 # Knowledge Check
 
-## Structure
+This course uses a graded quiz delivered through Google Forms. Complete the quiz after finishing all five lessons and the practical output assignment.
 
 - Question count: 5
 - Passing threshold: 4 correct responses
-- Question types: multiple choice and short answer
-- Retake guidance: Review Lesson 01 before trying again.
+- Format: multiple choice and short answer
+- Link: [Complete the graded course quiz](https://forms.gle/REPLACE_WITH_YOUR_FORM_LINK)
 
-## Questions
+## Quiz Focus
 
-### 1. Multiple Choice
+- Core concepts from each lesson
+- Practical application toward the course output
+- Key field-ready habits and vocabulary
 
-Why does language learning matter for missionary readiness?
+## Preparation
 
-- A. It helps workers honor people and communicate with humility.
-- B. It guarantees fast ministry growth.
-- C. It removes the need for local relationships.
-- D. It is only useful for academic learners.
+- Review the ungraded skill checks after each lesson.
+- Complete the practical assignment or output.
+- Discuss any unclear points with a mentor, facilitator, or sending partner.
 
-Correct answer: A
-
-### 2. Multiple Choice
-
-What should learners expect?
-
-- A. Immediate fluency.
-- B. No embarrassment.
-- C. Slow progress, mistakes, and repeated practice.
-- D. No need for local help.
-
-Correct answer: C
-
-### 3. Short Answer
-
-Name one possible local helper for language learning.
-
-Model answer: Tutor, neighbor, church member, conversation partner, teacher, or local friend.
-
-### 4. Multiple Choice
-
-What usually supports progress best?
-
-- A. Small daily habits.
-- B. Waiting until perfect motivation.
-- C. Avoiding conversation.
-- D. Only reading about the language.
-
-Correct answer: A
-
-### 5. Short Answer
-
-What is one language-learning habit you could practice for two weeks?
-
-Model answer: Daily listening, vocabulary review, pronunciation practice, short conversations, or meeting with a helper.
-
-## Completion Note
-
-This knowledge check supports reflection. It does not certify language proficiency.
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back to Course Overview</a>
+  <a class="mri-button primary" href="https://forms.gle/REPLACE_WITH_YOUR_FORM_LINK" target="_blank">Go to Graded Quiz</a>
+</div>

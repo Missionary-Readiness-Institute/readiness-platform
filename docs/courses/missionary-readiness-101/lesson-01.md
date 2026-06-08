@@ -51,3 +51,8 @@ Before moving on, write brief answers to these questions:
 ## Lesson Summary
 
 Missionary readiness is not a badge or status. It is a posture and preparation process that helps workers serve with humility, faithfulness, accountability, and practical wisdom.
+
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back</a>
+  <a class="mri-button primary" href="lesson-02.md">Next Lesson</a>
+</div>

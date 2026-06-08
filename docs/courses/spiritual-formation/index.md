@@ -32,15 +32,23 @@ By the end of this course, learners should be able to:
 
 60-75 minutes.
 
+## Practical Output
+
+A simple weekly rule-of-life and formation plan.
+
 ## Lessons
 
 1. [Formation Before Activity](lesson-01.md)
-2. [Knowledge Check](knowledge-check.md)
+2. [Worship and Scripture Rhythms](lesson-02.md)
+3. [Prayer, Rest, and Emotional Resilience](lesson-03.md)
+4. [Accountability, Community, and Confession](lesson-04.md)
+5. [Obedience Habits and Next Steps](lesson-05.md)
+6. [Knowledge Check](knowledge-check.md)
 
 ## Required Reading/Viewing
 
 - Read the course overview.
-- Complete Lesson 01.
+- Complete all five lessons.
 - Read a selected Scripture passage on character, prayer, or endurance.
 
 ## Reflection Questions
@@ -55,7 +63,7 @@ Draft a simple weekly rule of life for the next month. Include Scripture, prayer
 
 ## Completion Criteria
 
-- Review the overview and Lesson 01.
+- Review the overview and all lessons.
 - Answer the reflection questions.
 - Complete the knowledge check.
 - Draft and discuss the practical assignment with a mentor, pastor, or trusted leader.
@@ -75,3 +83,8 @@ This course may later be eligible for a certificate of completion. A certificate
 | Date | Version | Notes |
 | --- | --- | --- |
 | June 7, 2026 | `0.1` | Initial public draft. |
+
+<div class="course-nav">
+  <a class="mri-button secondary" href="../index.md">Back to Course Catalog</a>
+  <a class="mri-button primary" href="lesson-01.md">Start Lesson 1</a>
+</div>
