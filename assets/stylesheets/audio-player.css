@@ -1,0 +1,16 @@
+.mri-audio-player {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.5rem;
+  background: var(--md-default-bg-color);
+}
+
+.mri-audio-title {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+.mri-audio-player .plyr {
+  border-radius: 0.4rem;
+}
