@@ -33,8 +33,12 @@ theme:
 extra_css:
 - assets/stylesheets/extra.css
 - assets/stylesheets/skill-check.css
+- https://cdn.plyr.io/3.7.8/plyr.css
+- assets/stylesheets/audio-player.css
 extra_javascript:
 - assets/js/skill-check.js
+- https://cdn.plyr.io/3.7.8/plyr.polyfilled.js
+- assets/js/audio-player.js
 extra:
   social:
   - icon: fontawesome/brands/facebook

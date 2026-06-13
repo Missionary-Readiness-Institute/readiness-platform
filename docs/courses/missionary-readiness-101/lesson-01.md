@@ -2,6 +2,23 @@
 
 Missionary readiness is the sober preparation needed before serving across cultures, communities, or ministry contexts. It is not only a matter of desire. It includes formation, wisdom, support, humility, and practical responsibility.
 
+## Audio Lesson
+
+<div class="mri-audio-player">
+  <p class="mri-audio-title"><strong>Listen to this lesson</strong></p>
+
+  <audio id="lesson-01-audio" class="js-player" controls preload="metadata" crossorigin playsinline>
+    <source src="audio-readings/multi-speaker-test/lesson-01-dialogue.mp3" type="audio/mpeg">
+    <track
+      kind="captions"
+      label="English"
+      srclang="en"
+      src="audio-readings/multi-speaker-test/lesson-01-dialogue.vtt"
+      default>
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
 ## Key Idea
 
 Readiness is the process of becoming prepared to serve faithfully, safely, respectfully, and accountably.
