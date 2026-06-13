@@ -6,7 +6,7 @@ Field workers need people who can ask hard questions, pray with them, and help t
 
 ## Lesson Goal
 
-Describe the roles of community and accountability in lasting formation.
+Describe the roles of community and accountability in lasting readiness.
 
 ## What This Lesson Teaches
 

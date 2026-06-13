@@ -2,7 +2,7 @@
 
 ## Key Idea
 
-True formation is shown by what learners do with what they know. Obedience plans help make that practical.
+True readiness is shown by what learners do with what they know. Obedience plans help make that practical.
 
 ## Lesson Goal
 
@@ -10,7 +10,7 @@ Turn spiritual insight into a simple obedience action plan.
 
 ## What This Lesson Teaches
 
-- True formation is shown by what learners do with what they know. Obedience plans help make that practical.
+- True readiness is shown by what learners do with what they know. Obedience plans help make that practical.
 - How the idea connects to the course output.
 - A practical action you can complete immediately.
 
@@ -30,6 +30,6 @@ Write two "I will" statements that come from this course and one small next step
 This lesson reinforces the main idea in the context of the course output. Use it to build the next part of your plan.
 
 <div class="course-nav">
-  <a class="mri-button secondary" href="lesson-04.md">Back</a>
-  <a class="mri-button primary" href="knowledge-check.md">Go to Quiz</a>
+  <a class="mri-button secondary" href="./lesson-04.md">Back</a>
+  <a class="mri-button primary" href="./knowledge-check.md">Go to Quiz</a>
 </div>

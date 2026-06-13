@@ -1,6 +1,6 @@
-# Lesson 01: Formation Before Activity
+# Lesson 01: Readiness Before Activity
 
-Missionary service can expose the difference between visible activity and quiet faithfulness. Spiritual Readiness and Resilience is the ongoing work of being shaped by God through Scripture, prayer, worship, obedience, repentance, rest, and community.
+Missionary service can expose the difference between visible activity and quiet faithfulness. Spiritual Readiness and Resilience is the ongoing work of being shaped by God through Scripture, prayer, worship, obedience, repentance, rest, and community. It is akin to sanctification.
 
 ## Key Idea
 
@@ -18,7 +18,7 @@ Readiness includes love for God expressed in ordinary obedience. Public ministry
 
 ### Rest And Limits
 
-Mission work can reward urgency. Learners should prepare to receive limits, practice rest, and resist measuring worth by productivity alone.
+Mission work can reward urgency. Learners should prepare to receive limits, practice rest, and resist measuring worth by productivity alone. This builds patience and helps us to walk ahead of God and His plans for those He loves (including ourselves).
 
 ### Accountability
 
@@ -35,6 +35,6 @@ Trusted leaders and peers can help learners notice blind spots, confess honestly
 Spiritual Readiness and Resilience is not a decorative add-on to missionary service. It is part of the foundation for faithful, humble, and durable ministry.
 
 <div class="course-nav">
-  <a class="mri-button secondary" href="../index.md">Back</a>
-  <a class="mri-button primary" href="lesson-02.md">Next Lesson</a>
+  <a class="mri-button secondary" href="./index.md">Back</a>
+  <a class="mri-button primary" href="./lesson-02.md">Next Lesson</a>
 </div>

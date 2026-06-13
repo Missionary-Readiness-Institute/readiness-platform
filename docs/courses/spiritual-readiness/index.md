@@ -34,11 +34,11 @@ By the end of this course, learners should be able to:
 
 ## Practical Output
 
-A simple weekly rule-of-life and formation plan.
+A simple weekly rule-of-life and readiness plan.
 
 ## Lessons
 
-1. [Formation Before Activity](lesson-01.md)
+1. [Readiness Before Activity](lesson-01.md)
 2. [Worship and Scripture Rhythms](lesson-02.md)
 3. [Prayer, Rest, and Emotional Resilience](lesson-03.md)
 4. [Accountability, Community, and Confession](lesson-04.md)
