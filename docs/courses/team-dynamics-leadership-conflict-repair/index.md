@@ -17,7 +17,7 @@ To help teams build resilient, decentralized leadership; navigate difficult conv
 
 ## Prerequisites
 
-Recommended: Spiritual Formation and Cross-Cultural Service.
+Recommended: Spiritual Readiness and Resilience and Cross-Cultural Service.
 
 ## Learning Objectives
 

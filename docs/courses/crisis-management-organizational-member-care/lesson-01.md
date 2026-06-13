@@ -32,7 +32,7 @@ Teams should support one another, know where to find resources, and stop harmful
 
 ## The 7 S's explained
 
-1. Savior care: discipleship, spiritual formation, and mission clarity.
+1. Savior care: discipleship, Spiritual Readiness and Resilience, and mission clarity.
 2. Self-care: personal health, rest, and boundaries.
 3. Staff care: peer care, mutual support, and team rhythms.
 4. Shepherd care: pastoral oversight, counseling, and spiritual guidance.

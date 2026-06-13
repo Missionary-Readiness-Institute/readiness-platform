@@ -1,6 +1,6 @@
-# Spiritual Formation
+# Spiritual Readiness and Resilience
 
-Spiritual Formation prepares learners for missionary service rooted in worship, Scripture, prayer, obedience, and durable love for God and neighbor.
+Spiritual Readiness and Resilience prepares learners for missionary service rooted in worship, Scripture, prayer, obedience, and durable love for God and neighbor.
 
 !!! note "Introductory course"
     This course is available as an initial public draft. It should be reviewed by responsible ministry leaders before use in formal training.
@@ -23,7 +23,7 @@ Recommended: [Missionary Readiness 101](../missionary-readiness-101/index.md).
 
 By the end of this course, learners should be able to:
 
-- Describe why spiritual formation is central to readiness.
+- Describe why Spiritual Readiness and Resilience is central to readiness.
 - Identify rhythms that sustain prayer, Scripture, worship, and rest.
 - Recognize pressures that can expose unhealthy expectations.
 - Discuss spiritual readiness honestly with trusted leaders.

@@ -26,7 +26,7 @@ Entry-level courses for those considering or beginning cross-cultural service.
 
 ---
 
-### Course 2: Spiritual Formation
+### Course 2: Spiritual Readiness and Resilience
 *Building deep inner life before and during field service.*
 
 **Lessons:**

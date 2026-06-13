@@ -13,7 +13,7 @@ The platform is not a university, seminary, accredited institution, or sending a
   </figure>
   <div>
 
-Missionary service often begins with sincere desire, but desire alone is not enough. Workers and supporters need space to think carefully about spiritual formation, cultural humility, safety, accountability, family realities, local church relationships, and practical preparation.
+Missionary service often begins with sincere desire, but desire alone is not enough. Workers and supporters need space to think carefully about Spiritual Readiness and Resilience, cultural humility, safety, accountability, family realities, local church relationships, and practical preparation.
 
 This site is being developed to provide that kind of starting point: clear public resources, course outlines, reflection questions, and practical assignments that can support better conversations before service begins.
 

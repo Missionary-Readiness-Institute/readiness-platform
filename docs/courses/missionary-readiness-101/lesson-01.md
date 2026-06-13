@@ -8,7 +8,7 @@ Readiness is the process of becoming prepared to serve faithfully, safely, respe
 
 ## Core Areas Of Readiness
 
-### Spiritual Formation
+### Spiritual Readiness and Resilience
 
 Missionary service should grow from worship, Scripture, prayer, obedience, and character. Skills matter, but character carries weight when plans change, language is difficult, relationships are strained, or ministry fruit is slow.
 

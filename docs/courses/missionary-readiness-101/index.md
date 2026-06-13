@@ -1,6 +1,6 @@
 # Missionary Readiness 101
 
-Missionary Readiness 101 is the entry course for the platform. It introduces the basic idea that missionary service requires more than willingness. Faithful readiness includes spiritual formation, humility, accountability, safety, cultural respect, and practical preparation.
+Missionary Readiness 101 is the entry course for the platform. It introduces the basic idea that missionary service requires more than willingness. Faithful readiness includes Spiritual Readiness and Resilience, humility, accountability, safety, cultural respect, and practical preparation.
 
 !!! note "Introductory course"
     This course is available as an initial public draft. It should be reviewed by responsible ministry leaders before use in formal training.

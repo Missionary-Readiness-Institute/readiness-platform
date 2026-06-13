@@ -11,7 +11,7 @@ The platform is not a university, seminary, accredited institution, mission boar
 
 ## The Problem
 
-Many mission-minded people step toward service with sincere desire but limited preparation. Independent missionaries and small sending networks may not have a shared framework for discussing spiritual formation, cross-cultural humility, safety, accountability, family realities, legal compliance, language learning, or long-term care.
+Many mission-minded people step toward service with sincere desire but limited preparation. Independent missionaries and small sending networks may not have a shared framework for discussing Spiritual Readiness and Resilience, cross-cultural humility, safety, accountability, family realities, legal compliance, language learning, or long-term care.
 
 Churches and sponsors often want to help but may lack practical tools for asking good questions, identifying risks early, and supporting workers responsibly.
 
@@ -48,7 +48,7 @@ The current priority is to develop a credible minimum viable platform:
 
 1. Polish the public website and policy pages.
 2. Expand the first course, Missionary Readiness 101.
-3. Build out foundational courses in spiritual formation, cross-cultural service, missionary care, language learning, and field readiness.
+3. Build out foundational courses in Spiritual Readiness and Resilience, cross-cultural service, missionary care, language learning, and field readiness.
 4. Invite pastors, missionaries, sponsors, educators, and ministry leaders to review the material.
 5. Identify a simple process for feedback, revisions, and future certificates of completion.
 

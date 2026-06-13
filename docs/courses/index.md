@@ -20,7 +20,7 @@ The following Level 1 courses are designed for new field workers, church members
     <p>The basic readiness framework for new learners, churches, sponsors, and families.</p>
   </section>
   <section class="mri-card">
-    <h3><a href="spiritual-formation/">Spiritual Formation</a></h3>
+    <h3><a href="spiritualreadiness/">Spiritual Readiness and Resilience</a></h3>
     <div class="mri-meta"><span class="mri-pill">Level 1</span><span class="mri-pill">60-75 min</span><span class="mri-pill">Available draft</span></div>
     <p>Character, prayer, Scripture, worship, rest, obedience, and accountability.</p>
   </section>
@@ -103,7 +103,7 @@ Each lesson includes an ungraded skill check to reinforce the main idea. Graded 
 ## Recommended Sequence
 
 1. Missionary Readiness 101
-2. Spiritual Formation
+2. Spiritual Readiness and Resilience
 3. Cross-Cultural Service
 4. Missionary Care
 5. Language Learning

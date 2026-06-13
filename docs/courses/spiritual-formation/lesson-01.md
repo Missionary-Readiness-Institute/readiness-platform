@@ -1,6 +1,6 @@
 # Lesson 01: Formation Before Activity
 
-Missionary service can expose the difference between visible activity and quiet faithfulness. Spiritual formation is the ongoing work of being shaped by God through Scripture, prayer, worship, obedience, repentance, rest, and community.
+Missionary service can expose the difference between visible activity and quiet faithfulness. Spiritual Readiness and Resilience is the ongoing work of being shaped by God through Scripture, prayer, worship, obedience, repentance, rest, and community.
 
 ## Key Idea
 
@@ -32,7 +32,7 @@ Trusted leaders and peers can help learners notice blind spots, confess honestly
 
 ## Lesson Summary
 
-Spiritual formation is not a decorative add-on to missionary service. It is part of the foundation for faithful, humble, and durable ministry.
+Spiritual Readiness and Resilience is not a decorative add-on to missionary service. It is part of the foundation for faithful, humble, and durable ministry.
 
 <div class="course-nav">
   <a class="mri-button secondary" href="../index.md">Back</a>

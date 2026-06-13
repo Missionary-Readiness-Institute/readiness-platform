@@ -2,7 +2,7 @@
 
 ## Key Idea
 
-Spiritual formation is built on habits, not bursts of activity before departure. Scripture and worship should shape daily life.
+Spiritual Readiness and Resilience is built on habits, not bursts of activity before departure. Scripture and worship should shape daily life.
 
 ## Lesson Goal
 
@@ -10,7 +10,7 @@ Identify daily rhythms that connect Scripture, worship, and field readiness.
 
 ## What This Lesson Teaches
 
-- Spiritual formation is built on habits, not bursts of activity before departure. Scripture and worship should shape daily life.
+- Spiritual Readiness and Resilience is built on habits, not bursts of activity before departure. Scripture and worship should shape daily life.
 - How the idea connects to the course output.
 - A practical action you can complete immediately.
 
@@ -19,10 +19,10 @@ Identify daily rhythms that connect Scripture, worship, and field readiness.
 Write a one-week rhythm that includes Scripture, prayer, worship, and rest.
 
 <div class="skill-check"
-     data-question="True or false: spiritual formation is most effective when it is only done before departure."
+     data-question="True or false: Spiritual Readiness and Resilience is most effective when it is only done before departure."
      data-options='["True", "False"]'
      data-answer="1"
-     data-explanation="Spiritual formation works best as a daily rhythm, not a one-time preparation event.">
+     data-explanation="Spiritual Readiness and Resilience works best as a daily rhythm, not a one-time preparation event.">
 </div>
 
 ## Lesson Summary

@@ -12,7 +12,7 @@ Rate each item from 1 (weak) to 5 (strong). Note gaps and assign follow-up actio
 
 | S | Description | Current rating (1-5) | Strengths | Gaps | Next action |
 | --- | --- | --- | --- | --- | --- |
-| Savior care | Discipleship, spiritual formation, and mission clarity | | | | |
+| Savior care | Discipleship, Spiritual Readiness and Resilience, and mission clarity | | | | |
 | Self-care | Personal health, rest, and boundaries | | | | |
 | Staff care | Peer support, mutual encouragement, team rhythms | | | | |
 | Shepherd care | Pastoral oversight, counseling, mentoring | | | | |

@@ -20,7 +20,7 @@ TL;DR: Define a consistent course architecture across all tiers with 5 lessons, 
 - The final quiz should test understanding of both the core concepts and the practical output.
 
 **Course Series Model**
-- Group related courses under broader school areas: Spiritual Formation, Culture & Worldview, Language & Field Learning, Funding & Operations, Safeguarding & Health, Team Dynamics & Resilience, Security & Tech.
+- Group related courses under broader school areas: Spiritual Readiness and Resilience, Culture & Worldview, Language & Field Learning, Funding & Operations, Safeguarding & Health, Team Dynamics & Resilience, Security & Tech.
 - Each course remains a self-contained 5-lesson module, with a series of 2-4 courses covering larger topic areas.
 
 **Implementation Alignment**

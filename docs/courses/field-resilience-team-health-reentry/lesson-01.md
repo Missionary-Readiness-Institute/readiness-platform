@@ -6,7 +6,7 @@ Field Resilience, Team Health, and Reentry
 ## Audience
 - Field practitioners preparing for long-term or high-stress service
 - Workers who will live and minister in a culture far from home
-- Mentors supporting psychological and spiritual formation
+- Mentors supporting psychological and Spiritual Readiness and Resilience
 
 ## Purpose
 Teach learners that cross-cultural stress exposes inner wounds, family-of-origin issues, and identity vulnerabilities, making person formation and inner healing essential before and during field service.

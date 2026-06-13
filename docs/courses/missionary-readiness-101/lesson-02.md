@@ -22,7 +22,7 @@ Write one sentence for each readiness area and note one immediate question you n
      data-question="True or false: readiness only means organizing documents and sending support letters."
      data-options='["True", "False"]'
      data-answer="1"
-     data-explanation="Readiness includes spiritual formation, humility, relationships, safety, and practical planning, not just paperwork.">
+     data-explanation="Readiness includes Spiritual Readiness and Resilience, humility, relationships, safety, and practical planning, not just paperwork.">
 </div>
 
 ## Lesson Summary
