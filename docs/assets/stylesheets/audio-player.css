@@ -1,16 +1,82 @@
+/* Missionary Readiness Institute audio player styles.
+   This file assumes Plyr is loaded first, then extra.css, then this file. */
+
 .mri-audio-player {
   margin: 1.5rem 0;
   padding: 1rem;
-  border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: 0.5rem;
-  background: var(--md-default-bg-color);
+  border: 1px solid var(--mri-border);
+  border-radius: 0.65rem;
+  background:
+    linear-gradient(135deg, rgba(23, 50, 77, 0.04), rgba(88, 117, 102, 0.06)),
+    var(--mri-card-bg);
 }
 
 .mri-audio-title {
   margin-top: 0;
   margin-bottom: 0.75rem;
+  color: var(--md-default-fg-color);
 }
 
 .mri-audio-player .plyr {
+  border-radius: 0.5rem;
+
+  /* Plyr theme variables */
+  --plyr-color-main: var(--mri-gold);
+  --plyr-audio-controls-background: var(--mri-paper);
+  --plyr-audio-control-color: var(--mri-navy);
+  --plyr-audio-control-color-hover: #ffffff;
+  --plyr-audio-control-background-hover: var(--mri-navy);
+  --plyr-range-fill-background: var(--mri-gold);
+  --plyr-range-track-background: rgba(23, 50, 77, 0.18);
+  --plyr-tooltip-background: var(--mri-navy);
+  --plyr-tooltip-color: #ffffff;
+  --plyr-menu-background: var(--mri-paper);
+  --plyr-menu-color: var(--md-default-fg-color);
+  --plyr-menu-border-color: var(--mri-border);
+}
+
+.mri-caption-box {
+  margin-top: 0.85rem;
+  padding: 0.85rem 1rem;
+  min-height: 3rem;
+  border-left: 4px solid var(--mri-gold);
   border-radius: 0.4rem;
+  background: var(--mri-soft-bg);
+  color: var(--md-default-fg-color);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.mri-caption-box:empty {
+  display: none;
+}
+
+/* Dark theme refinements */
+
+[data-md-color-scheme="slate"] .mri-audio-player {
+  background:
+    linear-gradient(135deg, rgba(23, 50, 77, 0.42), rgba(88, 117, 102, 0.14)),
+    var(--mri-card-bg);
+  border-color: var(--mri-border);
+}
+
+[data-md-color-scheme="slate"] .mri-audio-player .plyr {
+  --plyr-color-main: var(--mri-gold);
+  --plyr-audio-controls-background: #122131;
+  --plyr-audio-control-color: #fff4d9;
+  --plyr-audio-control-color-hover: #102235;
+  --plyr-audio-control-background-hover: var(--mri-gold);
+  --plyr-range-fill-background: var(--mri-gold);
+  --plyr-range-track-background: rgba(255, 226, 168, 0.22);
+  --plyr-tooltip-background: #ffd27a;
+  --plyr-tooltip-color: #102235;
+  --plyr-menu-background: #192c40;
+  --plyr-menu-color: #fff4d9;
+  --plyr-menu-border-color: var(--mri-border);
+}
+
+[data-md-color-scheme="slate"] .mri-caption-box {
+  background: rgba(255, 210, 122, 0.09);
+  color: #fff4d9;
+  border-left-color: var(--mri-gold);
 }

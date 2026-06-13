@@ -8,15 +8,19 @@ Missionary readiness is the sober preparation needed before serving across cultu
   <p class="mri-audio-title"><strong>Listen to this lesson</strong></p>
 
   <audio id="lesson-01-audio" class="js-player" controls preload="metadata" crossorigin playsinline>
-    <source src="audio-readings/multi-speaker-test/lesson-01-dialogue.mp3" type="audio/mpeg">
+    <source src="./../audio-readings/multi-speaker-test/lesson-01-dialogue.mp3" type="audio/mpeg">
     <track
       kind="captions"
       label="English"
       srclang="en"
-      src="audio-readings/multi-speaker-test/lesson-01-dialogue.vtt"
+      src="./../audio-readings/multi-speaker-test/lesson-01-dialogue.vtt"
       default>
     Your browser does not support the audio element.
   </audio>
+
+  <div id="lesson-01-caption-box" class="mri-caption-box">
+    Captions will appear here while the lesson plays.
+  </div>
 </div>
 
 ## Key Idea
