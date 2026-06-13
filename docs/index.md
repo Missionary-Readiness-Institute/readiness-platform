@@ -71,7 +71,7 @@ The goal is simple: provide clear course materials that help learners prepare wi
 ## Training Approach
 
 <div class="mri-pathway">
-  <div class="mri-step"><strong>Formation before activity.</strong> Readiness begins with Scripture, prayer, character, worship, and obedience.</div>
+  <div class="mri-step"><strong>Readiness before activity.</strong> Readiness begins with Scripture, prayer, character, worship, and obedience.</div>
   <div class="mri-step"><strong>Humility before strategy.</strong> Cross-cultural service should honor local churches, local leaders, and local communities.</div>
   <div class="mri-step"><strong>Care before crisis.</strong> Preparation includes family safety, child protection, support systems, and appropriate boundaries.</div>
   <div class="mri-step"><strong>Practical next steps.</strong> Courses include lessons, reflection questions, knowledge checks, and assignments for discussion.</div>

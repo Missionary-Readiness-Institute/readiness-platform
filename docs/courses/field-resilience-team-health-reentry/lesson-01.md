@@ -1,4 +1,4 @@
-# Lesson 1: Person Formation and the Crucible of Cross-Cultural Stress
+# Lesson 1: Personal Readiness and the Crucible of Cross-Cultural Stress
 
 ## Course/series
 Field Resilience, Team Health, and Reentry
@@ -9,22 +9,22 @@ Field Resilience, Team Health, and Reentry
 - Mentors supporting psychological and Spiritual Readiness and Resilience
 
 ## Purpose
-Teach learners that cross-cultural stress exposes inner wounds, family-of-origin issues, and identity vulnerabilities, making person formation and inner healing essential before and during field service.
+Teach learners that cross-cultural stress exposes inner wounds, family-of-origin issues, and identity vulnerabilities, making person readiness and inner healing essential before and during field service.
 
 ## Learning objectives
 - Identify how cross-cultural stress lowers self-image and reveals past trauma
-- Describe the role of person formation in missionary resilience
+- Describe the role of person readiness in missionary resilience
 - Name three signs that a worker needs deeper emotional support
 
 ## Core principle
-Healthy field ministry depends on the worker’s inner formation as much as theological knowledge.
+Healthy field ministry depends on the worker’s inner readiness as much as theological knowledge.
 
 ## Field problem
 Workers often enter the field with strong missiology but weak emotional grounding, leaving them vulnerable to burnout, conflict, or unhealthy coping when under stress.
 
 ## Key concepts
 - Cross-cultural stress as a crucible
-- Person formation vs. information training
+- Personal readiness vs. information training
 - Hidden vulnerability from family-of-origin dynamics
 
 ## Practical framework

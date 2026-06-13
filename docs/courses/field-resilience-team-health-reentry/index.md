@@ -3,7 +3,7 @@
 Field Resilience, Team Health, and Reentry is a Level 2 Field Practitioner course for workers who need practical tools for psychological care, multicultural team health, and transition resilience in cross-cultural service.
 
 !!! note "Field Practitioner course"
-    This course is designed for active workers, tentmakers, and field teams who need resilient practices for person formation, team culture, and reentry.
+    This course is designed for active workers, tentmakers, and field teams who need resilient practices for person readiness, team culture, and reentry.
 
 ## Course purpose
 
@@ -23,7 +23,7 @@ Recommended: [Missionary Readiness 101](../missionary-readiness-101/index.md), [
 
 By the end of this course, learners should be able to:
 
-- Describe why person formation is as important as missiological training
+- Describe why person readiness is as important as missiological training
 - Assess cultural distance using the E-Scale
 - Adapt to both host culture and team culture
 - Support singles, families, and TCKs in diverse field settings
@@ -39,7 +39,7 @@ A resilience plan, E-Scale assessment, team covenant template, RAFT transition c
 
 ## Lessons
 
-1. [Person Formation and the Crucible of Cross-Cultural Stress](lesson-01.md)
+1. [Person Readiness and the Crucible of Cross-Cultural Stress](lesson-01.md)
 2. [The E-Scale of Ministry (Measuring Cultural Distance)](lesson-02.md)
 3. [Navigating Team Culture vs. Host Culture](lesson-03.md)
 4. [Single Workers, Marriages, and Third-Culture Kids (TCKs)](lesson-04.md)
@@ -76,7 +76,7 @@ Complete the E-Scale Ministry Assessment and the RAFT Transition Checklist for y
 
 ## Facilitator notes
 
-- Emphasize the importance of person formation and psychological care.
+- Emphasize the importance of personal readiness and psychological care.
 - Encourage team agreements before field deployment.
 - Review reentry plans with experienced local and sending leaders.
 

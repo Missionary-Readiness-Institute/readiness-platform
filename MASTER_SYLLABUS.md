@@ -30,7 +30,7 @@ Entry-level courses for those considering or beginning cross-cultural service.
 *Building deep inner life before and during field service.*
 
 **Lessons:**
-1. Formation Before Activity
+1. Readiness Before Activity
 2. Worship and Scripture Rhythms
 3. Prayer, Rest, and Emotional Resilience
 4. Accountability, Community, and Confession
@@ -200,7 +200,7 @@ Courses for workers and teams in active field service.
 *Culture shock, E-Scale preparation, TCK care, reentry planning, and RAFT transition.*
 
 **Lessons:**
-1. Person Formation and the Crucible of Cross-Cultural Stress
+1. Person Readiness and the Crucible of Cross-Cultural Stress
 2. The E-Scale of Ministry (Measuring Cultural Distance)
 3. Navigating Team Culture vs. Host Culture
 4. Single Workers, Marriages, and Third-Culture Kids (TCKs)
